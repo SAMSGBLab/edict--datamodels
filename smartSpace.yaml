@@ -358,7 +358,7 @@ components:
           x-ngsi:
             type: Property
     SmartEnvironment:
-       required:
+      required:
         - id
         - type
       properties:
