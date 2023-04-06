@@ -1,3 +1,5 @@
 # edict--datamodels
 
-![Smart System](/images/smartSystem.png)
+![Smart System](/assets/smartSystem.png) 
+
+The diagram can be found [here.](/assets/smartSystem.drawio)
