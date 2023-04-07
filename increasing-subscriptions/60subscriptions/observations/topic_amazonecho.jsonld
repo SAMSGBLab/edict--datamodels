@@ -1,1 +1,31 @@
-{"name": "topic_amazonecho", "id": "topic_amazonecho", "priority": 0, "isCapturedBy": ["amazonecho_source"], "isReceivedBy": ["app_app27", "app_app21", "app_app5", "app_app14", "app_app3"], "type": "Observation", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "name": {
+        "type": "Property",
+        "value": "topic_amazonecho"
+    },
+    "id": "topic_amazonecho",
+    "priority": {
+        "type": "Property",
+        "value": 0
+    },
+    "isCapturedBy": {
+        "type": "Relationship",
+        "object": [
+            "amazonecho_source"
+        ]
+    },
+    "isReceivedBy": {
+        "type": "Relationship",
+        "object": [
+            "app_app27",
+            "app_app21",
+            "app_app5",
+            "app_app14",
+            "app_app3"
+        ]
+    },
+    "type": "Observation",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}

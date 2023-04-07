@@ -1,1 +1,29 @@
-{"id": "smartthings_source", "name": "smartthings_source", "publishFrequency": 1, "messageSize": 205264.41, "dataDistribution": "exponential", "capturesObservation": ["topic_smartthings"], "type": "Device", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "id": "smartthings_source",
+    "name": {
+        "type": "Property",
+        "value": "smartthings_source"
+    },
+    "publishFrequency": {
+        "type": "Property",
+        "value": 1
+    },
+    "messageSize": {
+        "type": "Property",
+        "value": 205264.41
+    },
+    "dataDistribution": {
+        "type": "Property",
+        "value": "exponential"
+    },
+    "capturesObservation": {
+        "type": "Relationship",
+        "object": [
+            "topic_smartthings"
+        ]
+    },
+    "type": "Device",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}

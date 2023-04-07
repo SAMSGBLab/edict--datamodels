@@ -1,1 +1,34 @@
-{"name": "app_app32", "id": "app_app32", "applicationCategory": "RT", "priority": 0, "processingRate": 1000, "processingDistribution": "exponential", "receivesObservation": ["topic_energymanagement", "topic_amazonecho"], "type": "Application", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "name": {
+        "type": "Property",
+        "value": "app_app32"
+    },
+    "id": "app_app32",
+    "applicationCategory": {
+        "type": "Property",
+        "value": "RT"
+    },
+    "priority": {
+        "type": "Property",
+        "value": 0
+    },
+    "processingRate": {
+        "type": "Property",
+        "value": 1000
+    },
+    "processingDistribution": {
+        "type": "Property",
+        "value": "exponential"
+    },
+    "receivesObservation": {
+        "type": "Relationship",
+        "object": [
+            "topic_energymanagement",
+            "topic_amazonecho"
+        ]
+    },
+    "type": "Application",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}

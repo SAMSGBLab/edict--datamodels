@@ -1,1 +1,30 @@
-{"name": "topic_occupancymanagement", "id": "topic_occupancymanagement", "priority": 0, "isCapturedBy": ["occupancymanagement_source"], "isReceivedBy": ["app_app36", "app_app37", "app_app12", "app_app21"], "type": "Observation", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "name": {
+        "type": "Property",
+        "value": "topic_occupancymanagement"
+    },
+    "id": "topic_occupancymanagement",
+    "priority": {
+        "type": "Property",
+        "value": 0
+    },
+    "isCapturedBy": {
+        "type": "Relationship",
+        "object": [
+            "occupancymanagement_source"
+        ]
+    },
+    "isReceivedBy": {
+        "type": "Relationship",
+        "object": [
+            "app_app36",
+            "app_app37",
+            "app_app12",
+            "app_app21"
+        ]
+    },
+    "type": "Observation",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}

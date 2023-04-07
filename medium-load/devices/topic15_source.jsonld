@@ -1,1 +1,29 @@
-{"id": "topic15_source", "name": "topic15_source", "publishFrequency": 60, "messageSize": 20480, "dataDistribution": "exponential", "capturesObservation": ["topic_topic15"], "type": "Device", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "id": "topic15_source",
+    "name": {
+        "type": "Property",
+        "value": "topic15_source"
+    },
+    "publishFrequency": {
+        "type": "Property",
+        "value": 60
+    },
+    "messageSize": {
+        "type": "Property",
+        "value": 20480
+    },
+    "dataDistribution": {
+        "type": "Property",
+        "value": "exponential"
+    },
+    "capturesObservation": {
+        "type": "Relationship",
+        "object": [
+            "topic_topic15"
+        ]
+    },
+    "type": "Device",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}

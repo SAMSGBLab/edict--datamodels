@@ -1,1 +1,29 @@
-{"id": "intrusiondetection_source", "name": "intrusiondetection_source", "publishFrequency": 1, "messageSize": 47583046.2, "dataDistribution": "exponential", "capturesObservation": ["topic_intrusiondetection"], "type": "Device", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "id": "intrusiondetection_source",
+    "name": {
+        "type": "Property",
+        "value": "intrusiondetection_source"
+    },
+    "publishFrequency": {
+        "type": "Property",
+        "value": 1
+    },
+    "messageSize": {
+        "type": "Property",
+        "value": 47583046.2
+    },
+    "dataDistribution": {
+        "type": "Property",
+        "value": "exponential"
+    },
+    "capturesObservation": {
+        "type": "Relationship",
+        "object": [
+            "topic_intrusiondetection"
+        ]
+    },
+    "type": "Device",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}

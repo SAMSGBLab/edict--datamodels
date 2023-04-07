@@ -1,1 +1,35 @@
-{"name": "app_app36", "id": "app_app36", "applicationCategory": "VS", "priority": 0, "processingRate": 1000, "processingDistribution": "exponential", "receivesObservation": ["topic_occupancymanagement", "topic_videosurveillance", "topic_intrusiondetection"], "type": "Application", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "name": {
+        "type": "Property",
+        "value": "app_app36"
+    },
+    "id": "app_app36",
+    "applicationCategory": {
+        "type": "Property",
+        "value": "VS"
+    },
+    "priority": {
+        "type": "Property",
+        "value": 0
+    },
+    "processingRate": {
+        "type": "Property",
+        "value": 1000
+    },
+    "processingDistribution": {
+        "type": "Property",
+        "value": "exponential"
+    },
+    "receivesObservation": {
+        "type": "Relationship",
+        "object": [
+            "topic_occupancymanagement",
+            "topic_videosurveillance",
+            "topic_intrusiondetection"
+        ]
+    },
+    "type": "Application",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}

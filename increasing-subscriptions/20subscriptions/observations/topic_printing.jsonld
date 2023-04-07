@@ -1,1 +1,28 @@
-{"name": "topic_printing", "id": "topic_printing", "priority": 0, "isCapturedBy": ["printing_source"], "isReceivedBy": ["app_app11", "app_app2"], "type": "Observation", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "name": {
+        "type": "Property",
+        "value": "topic_printing"
+    },
+    "id": "topic_printing",
+    "priority": {
+        "type": "Property",
+        "value": 0
+    },
+    "isCapturedBy": {
+        "type": "Relationship",
+        "object": [
+            "printing_source"
+        ]
+    },
+    "isReceivedBy": {
+        "type": "Relationship",
+        "object": [
+            "app_app11",
+            "app_app2"
+        ]
+    },
+    "type": "Observation",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}

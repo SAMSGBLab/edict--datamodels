@@ -1,1 +1,29 @@
-{"id": "occupancymanagement_source", "name": "occupancymanagement_source", "publishFrequency": 1, "messageSize": 280313.84, "dataDistribution": "exponential", "capturesObservation": ["topic_occupancymanagement"], "type": "Device", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "id": "occupancymanagement_source",
+    "name": {
+        "type": "Property",
+        "value": "occupancymanagement_source"
+    },
+    "publishFrequency": {
+        "type": "Property",
+        "value": 1
+    },
+    "messageSize": {
+        "type": "Property",
+        "value": 280313.84
+    },
+    "dataDistribution": {
+        "type": "Property",
+        "value": "exponential"
+    },
+    "capturesObservation": {
+        "type": "Relationship",
+        "object": [
+            "topic_occupancymanagement"
+        ]
+    },
+    "type": "Device",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}

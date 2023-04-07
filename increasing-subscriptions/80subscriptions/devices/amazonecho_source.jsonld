@@ -1,1 +1,29 @@
-{"id": "amazonecho_source", "name": "amazonecho_source", "publishFrequency": 1, "messageSize": 105869.28, "dataDistribution": "exponential", "capturesObservation": ["topic_amazonecho"], "type": "Device", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "id": "amazonecho_source",
+    "name": {
+        "type": "Property",
+        "value": "amazonecho_source"
+    },
+    "publishFrequency": {
+        "type": "Property",
+        "value": 1
+    },
+    "messageSize": {
+        "type": "Property",
+        "value": 105869.28
+    },
+    "dataDistribution": {
+        "type": "Property",
+        "value": "exponential"
+    },
+    "capturesObservation": {
+        "type": "Relationship",
+        "object": [
+            "topic_amazonecho"
+        ]
+    },
+    "type": "Device",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}

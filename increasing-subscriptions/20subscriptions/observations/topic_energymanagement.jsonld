@@ -1,1 +1,28 @@
-{"name": "topic_energymanagement", "id": "topic_energymanagement", "priority": 0, "isCapturedBy": ["energymanagement_source"], "isReceivedBy": ["app_app2", "app_app1"], "type": "Observation", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "name": {
+        "type": "Property",
+        "value": "topic_energymanagement"
+    },
+    "id": "topic_energymanagement",
+    "priority": {
+        "type": "Property",
+        "value": 0
+    },
+    "isCapturedBy": {
+        "type": "Relationship",
+        "object": [
+            "energymanagement_source"
+        ]
+    },
+    "isReceivedBy": {
+        "type": "Relationship",
+        "object": [
+            "app_app2",
+            "app_app1"
+        ]
+    },
+    "type": "Observation",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}

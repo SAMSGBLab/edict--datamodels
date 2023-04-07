@@ -1,1 +1,29 @@
-{"id": "videosurveillance_source", "name": "videosurveillance_source", "publishFrequency": 1, "messageSize": 14310092.37, "dataDistribution": "exponential", "capturesObservation": ["topic_videosurveillance"], "type": "Device", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "id": "videosurveillance_source",
+    "name": {
+        "type": "Property",
+        "value": "videosurveillance_source"
+    },
+    "publishFrequency": {
+        "type": "Property",
+        "value": 1
+    },
+    "messageSize": {
+        "type": "Property",
+        "value": 14310092.37
+    },
+    "dataDistribution": {
+        "type": "Property",
+        "value": "exponential"
+    },
+    "capturesObservation": {
+        "type": "Relationship",
+        "object": [
+            "topic_videosurveillance"
+        ]
+    },
+    "type": "Device",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}

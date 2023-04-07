@@ -1,1 +1,29 @@
-{"id": "energymanagement_source", "name": "energymanagement_source", "publishFrequency": 1, "messageSize": 3324693.6, "dataDistribution": "exponential", "capturesObservation": ["topic_energymanagement"], "type": "Device", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "id": "energymanagement_source",
+    "name": {
+        "type": "Property",
+        "value": "energymanagement_source"
+    },
+    "publishFrequency": {
+        "type": "Property",
+        "value": 1
+    },
+    "messageSize": {
+        "type": "Property",
+        "value": 3324693.6
+    },
+    "dataDistribution": {
+        "type": "Property",
+        "value": "exponential"
+    },
+    "capturesObservation": {
+        "type": "Relationship",
+        "object": [
+            "topic_energymanagement"
+        ]
+    },
+    "type": "Device",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}

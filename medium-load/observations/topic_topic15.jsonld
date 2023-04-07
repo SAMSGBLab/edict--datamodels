@@ -1,1 +1,28 @@
-{"id": "topic_topic15", "name": "topic_topic15", "priority": 0, "isCapturedBy": ["topic15_source"], "isReceivedBy": ["app_app6", "app_app15"], "type": "Observation", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "id": "topic_topic15",
+    "name": {
+        "type": "Property",
+        "value": "topic_topic15"
+    },
+    "priority": {
+        "type": "Property",
+        "value": 0
+    },
+    "isCapturedBy": {
+        "type": "Relationship",
+        "object": [
+            "topic15_source"
+        ]
+    },
+    "isReceivedBy": {
+        "type": "Relationship",
+        "object": [
+            "app_app6",
+            "app_app15"
+        ]
+    },
+    "type": "Observation",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}

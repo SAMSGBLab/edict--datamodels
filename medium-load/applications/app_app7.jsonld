@@ -1,1 +1,38 @@
-{"name": "app_app7", "id": "app_app7", "applicationCategory": "RT", "priority": 0, "processingRate": 1000, "processingDistribution": "exponential", "receivesObservation": ["topic_topic1", "topic_topic2", "topic_topic9", "topic_topic17", "topic_topic25", "topic_topic30"], "type": "Application", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "name": {
+        "type": "Property",
+        "value": "app_app7"
+    },
+    "id": "app_app7",
+    "applicationCategory": {
+        "type": "Property",
+        "value": "RT"
+    },
+    "priority": {
+        "type": "Property",
+        "value": 0
+    },
+    "processingRate": {
+        "type": "Property",
+        "value": 1000
+    },
+    "processingDistribution": {
+        "type": "Property",
+        "value": "exponential"
+    },
+    "receivesObservation": {
+        "type": "Relationship",
+        "object": [
+            "topic_topic1",
+            "topic_topic2",
+            "topic_topic9",
+            "topic_topic17",
+            "topic_topic25",
+            "topic_topic30"
+        ]
+    },
+    "type": "Application",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}

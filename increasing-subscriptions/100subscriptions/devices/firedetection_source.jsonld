@@ -1,1 +1,29 @@
-{"id": "firedetection_source", "name": "firedetection_source", "publishFrequency": 1, "messageSize": 191693, "dataDistribution": "exponential", "capturesObservation": ["topic_firedetection"], "type": "Device", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "id": "firedetection_source",
+    "name": {
+        "type": "Property",
+        "value": "firedetection_source"
+    },
+    "publishFrequency": {
+        "type": "Property",
+        "value": 1
+    },
+    "messageSize": {
+        "type": "Property",
+        "value": 191693
+    },
+    "dataDistribution": {
+        "type": "Property",
+        "value": "exponential"
+    },
+    "capturesObservation": {
+        "type": "Relationship",
+        "object": [
+            "topic_firedetection"
+        ]
+    },
+    "type": "Device",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}

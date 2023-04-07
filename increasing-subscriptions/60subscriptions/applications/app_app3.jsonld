@@ -1,1 +1,35 @@
-{"name": "app_app3", "id": "app_app3", "applicationCategory": "AN", "priority": 0, "processingRate": 1000, "processingDistribution": "exponential", "receivesObservation": ["topic_energymanagement", "topic_amazonecho", "topic_smartthings"], "type": "Application", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "name": {
+        "type": "Property",
+        "value": "app_app3"
+    },
+    "id": "app_app3",
+    "applicationCategory": {
+        "type": "Property",
+        "value": "AN"
+    },
+    "priority": {
+        "type": "Property",
+        "value": 0
+    },
+    "processingRate": {
+        "type": "Property",
+        "value": 1000
+    },
+    "processingDistribution": {
+        "type": "Property",
+        "value": "exponential"
+    },
+    "receivesObservation": {
+        "type": "Relationship",
+        "object": [
+            "topic_energymanagement",
+            "topic_amazonecho",
+            "topic_smartthings"
+        ]
+    },
+    "type": "Application",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}

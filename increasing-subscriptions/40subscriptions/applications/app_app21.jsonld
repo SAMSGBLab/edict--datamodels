@@ -1,1 +1,37 @@
-{"name": "app_app21", "id": "app_app21", "applicationCategory": "RT", "priority": 0, "processingRate": 1000, "processingDistribution": "exponential", "receivesObservation": ["topic_occupancymanagement", "topic_intrusiondetection", "topic_amazonecho", "topic_smartthings", "topic_bms"], "type": "Application", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "name": {
+        "type": "Property",
+        "value": "app_app21"
+    },
+    "id": "app_app21",
+    "applicationCategory": {
+        "type": "Property",
+        "value": "RT"
+    },
+    "priority": {
+        "type": "Property",
+        "value": 0
+    },
+    "processingRate": {
+        "type": "Property",
+        "value": 1000
+    },
+    "processingDistribution": {
+        "type": "Property",
+        "value": "exponential"
+    },
+    "receivesObservation": {
+        "type": "Relationship",
+        "object": [
+            "topic_occupancymanagement",
+            "topic_intrusiondetection",
+            "topic_amazonecho",
+            "topic_smartthings",
+            "topic_bms"
+        ]
+    },
+    "type": "Application",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}

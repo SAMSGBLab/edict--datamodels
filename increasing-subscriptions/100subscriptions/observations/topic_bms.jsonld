@@ -1,1 +1,36 @@
-{"name": "topic_bms", "id": "topic_bms", "priority": 0, "isCapturedBy": ["bms_source"], "isReceivedBy": ["app_app19", "app_app12", "app_app17", "app_app2", "app_app8", "app_app1", "app_app30", "app_app27", "app_app10", "app_app9"], "type": "Observation", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "name": {
+        "type": "Property",
+        "value": "topic_bms"
+    },
+    "id": "topic_bms",
+    "priority": {
+        "type": "Property",
+        "value": 0
+    },
+    "isCapturedBy": {
+        "type": "Relationship",
+        "object": [
+            "bms_source"
+        ]
+    },
+    "isReceivedBy": {
+        "type": "Relationship",
+        "object": [
+            "app_app19",
+            "app_app12",
+            "app_app17",
+            "app_app2",
+            "app_app8",
+            "app_app1",
+            "app_app30",
+            "app_app27",
+            "app_app10",
+            "app_app9"
+        ]
+    },
+    "type": "Observation",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}

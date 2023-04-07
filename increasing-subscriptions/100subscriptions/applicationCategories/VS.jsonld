@@ -1,1 +1,11 @@
-{"id": "VS", "name": "videoStreaming", "type": "ApplicationCategory", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "id": "VS",
+    "name": {
+        "type": "Property",
+        "value": "videoStreaming"
+    },
+    "type": "ApplicationCategory",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}

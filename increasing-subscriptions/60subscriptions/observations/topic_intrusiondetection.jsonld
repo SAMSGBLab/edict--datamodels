@@ -1,1 +1,33 @@
-{"name": "topic_intrusiondetection", "id": "topic_intrusiondetection", "priority": 0, "isCapturedBy": ["intrusiondetection_source"], "isReceivedBy": ["app_app36", "app_app41", "app_app40", "app_app21", "app_app24", "app_app2", "app_app6"], "type": "Observation", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "name": {
+        "type": "Property",
+        "value": "topic_intrusiondetection"
+    },
+    "id": "topic_intrusiondetection",
+    "priority": {
+        "type": "Property",
+        "value": 0
+    },
+    "isCapturedBy": {
+        "type": "Relationship",
+        "object": [
+            "intrusiondetection_source"
+        ]
+    },
+    "isReceivedBy": {
+        "type": "Relationship",
+        "object": [
+            "app_app36",
+            "app_app41",
+            "app_app40",
+            "app_app21",
+            "app_app24",
+            "app_app2",
+            "app_app6"
+        ]
+    },
+    "type": "Observation",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}

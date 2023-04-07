@@ -1,1 +1,29 @@
-{"id": "bms_source", "name": "bms_source", "publishFrequency": 1, "messageSize": 16091324.56, "dataDistribution": "exponential", "capturesObservation": ["topic_bms"], "type": "Device", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "id": "bms_source",
+    "name": {
+        "type": "Property",
+        "value": "bms_source"
+    },
+    "publishFrequency": {
+        "type": "Property",
+        "value": 1
+    },
+    "messageSize": {
+        "type": "Property",
+        "value": 16091324.56
+    },
+    "dataDistribution": {
+        "type": "Property",
+        "value": "exponential"
+    },
+    "capturesObservation": {
+        "type": "Relationship",
+        "object": [
+            "topic_bms"
+        ]
+    },
+    "type": "Device",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}

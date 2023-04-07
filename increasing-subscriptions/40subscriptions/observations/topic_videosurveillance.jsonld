@@ -1,1 +1,32 @@
-{"name": "topic_videosurveillance", "id": "topic_videosurveillance", "priority": 0, "isCapturedBy": ["videosurveillance_source"], "isReceivedBy": ["app_app37", "app_app38", "app_app26", "app_app4", "app_app36", "app_app2"], "type": "Observation", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
+{
+    "name": {
+        "type": "Property",
+        "value": "topic_videosurveillance"
+    },
+    "id": "topic_videosurveillance",
+    "priority": {
+        "type": "Property",
+        "value": 0
+    },
+    "isCapturedBy": {
+        "type": "Relationship",
+        "object": [
+            "videosurveillance_source"
+        ]
+    },
+    "isReceivedBy": {
+        "type": "Relationship",
+        "object": [
+            "app_app37",
+            "app_app38",
+            "app_app26",
+            "app_app4",
+            "app_app36",
+            "app_app2"
+        ]
+    },
+    "type": "Observation",
+    "@context": [
+        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+    ]
+}
