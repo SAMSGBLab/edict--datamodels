@@ -1,0 +1,1 @@
+{"name": "app_app12", "id": "app_app12", "applicationCategory": "TS", "priority": 0, "processingRate": 1000, "processingDistribution": "exponential", "receivesObservation": ["topic_printing", "topic_energymanagement", "topic_occupancymanagement", "topic_bms"], "type": "Application", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}

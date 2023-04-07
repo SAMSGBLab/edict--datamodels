@@ -1,0 +1,1 @@
+{"id": "topic1_source", "name": "topic1_source", "publishFrequency": 260, "messageSize": 200, "dataDistribution": "exponential", "capturesObservation": ["topic_topic1"], "type": "Device", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}

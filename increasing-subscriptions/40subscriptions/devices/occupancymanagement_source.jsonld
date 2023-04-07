@@ -1,0 +1,1 @@
+{"id": "occupancymanagement_source", "name": "occupancymanagement_source", "publishFrequency": 1, "messageSize": 280313.84, "dataDistribution": "exponential", "capturesObservation": ["topic_occupancymanagement"], "type": "Device", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}

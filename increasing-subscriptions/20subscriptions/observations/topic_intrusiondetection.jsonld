@@ -1,0 +1,1 @@
+{"name": "topic_intrusiondetection", "id": "topic_intrusiondetection", "priority": 0, "isCapturedBy": ["intrusiondetection_source"], "isReceivedBy": ["app_app36", "app_app21", "app_app2"], "type": "Observation", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}

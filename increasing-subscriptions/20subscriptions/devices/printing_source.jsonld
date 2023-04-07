@@ -1,0 +1,1 @@
+{"id": "printing_source", "name": "printing_source", "publishFrequency": 1, "messageSize": 624394.2, "dataDistribution": "exponential", "capturesObservation": ["topic_printing"], "type": "Device", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}

@@ -1,0 +1,1 @@
+{"id": "smartthings_source", "name": "smartthings_source", "publishFrequency": 1, "messageSize": 205264.41, "dataDistribution": "exponential", "capturesObservation": ["topic_smartthings"], "type": "Device", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}

@@ -1,0 +1,1 @@
+{"id": "videosurveillance_source", "name": "videosurveillance_source", "publishFrequency": 1, "messageSize": 14310092.37, "dataDistribution": "exponential", "capturesObservation": ["topic_videosurveillance"], "type": "Device", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}

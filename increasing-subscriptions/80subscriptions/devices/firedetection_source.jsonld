@@ -1,0 +1,1 @@
+{"id": "firedetection_source", "name": "firedetection_source", "publishFrequency": 1, "messageSize": 191693, "dataDistribution": "exponential", "capturesObservation": ["topic_firedetection"], "type": "Device", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}

@@ -1,0 +1,1 @@
+{"id": "intrusiondetection_source", "name": "intrusiondetection_source", "publishFrequency": 1, "messageSize": 47583046.2, "dataDistribution": "exponential", "capturesObservation": ["topic_intrusiondetection"], "type": "Device", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}

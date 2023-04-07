@@ -1,0 +1,1 @@
+{"id": "topic_topic30", "name": "topic_topic30", "priority": 0, "isCapturedBy": ["topic30_source"], "isReceivedBy": ["app_app7", "app_app15", "app_app16"], "type": "Observation", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}

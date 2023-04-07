@@ -1,0 +1,1 @@
+{"name": "app_app13", "id": "app_app13", "applicationCategory": "VS", "priority": 0, "processingRate": 1000, "processingDistribution": "exponential", "receivesObservation": ["topic_topic2", "topic_topic4", "topic_topic19", "topic_topic14", "topic_topic23"], "type": "Application", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}

@@ -1,0 +1,1 @@
+{"name": "app_app40", "id": "app_app40", "applicationCategory": "VS", "priority": 0, "processingRate": 1000, "processingDistribution": "exponential", "receivesObservation": ["topic_intrusiondetection"], "type": "Application", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}

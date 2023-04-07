@@ -1,0 +1,1 @@
+{"name": "topic_firedetection", "id": "topic_firedetection", "priority": 0, "isCapturedBy": ["firedetection_source"], "isReceivedBy": ["app_app22", "app_app23", "app_app1"], "type": "Observation", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}

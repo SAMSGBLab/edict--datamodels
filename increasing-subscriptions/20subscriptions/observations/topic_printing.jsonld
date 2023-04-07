@@ -1,0 +1,1 @@
+{"name": "topic_printing", "id": "topic_printing", "priority": 0, "isCapturedBy": ["printing_source"], "isReceivedBy": ["app_app11", "app_app2"], "type": "Observation", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}

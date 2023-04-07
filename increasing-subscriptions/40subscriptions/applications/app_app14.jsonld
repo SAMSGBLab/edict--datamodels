@@ -1,0 +1,1 @@
+{"name": "app_app14", "id": "app_app14", "applicationCategory": "TS", "priority": 0, "processingRate": 1000, "processingDistribution": "exponential", "receivesObservation": ["topic_amazonecho", "topic_smartthings"], "type": "Application", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}

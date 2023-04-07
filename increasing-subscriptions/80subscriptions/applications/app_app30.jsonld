@@ -1,0 +1,1 @@
+{"name": "app_app30", "id": "app_app30", "applicationCategory": "RT", "priority": 0, "processingRate": 1000, "processingDistribution": "exponential", "receivesObservation": ["topic_energymanagement", "topic_firedetection", "topic_amazonecho", "topic_bms"], "type": "Application", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}

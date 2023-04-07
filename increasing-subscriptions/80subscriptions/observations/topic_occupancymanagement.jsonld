@@ -1,0 +1,1 @@
+{"name": "topic_occupancymanagement", "id": "topic_occupancymanagement", "priority": 0, "isCapturedBy": ["occupancymanagement_source"], "isReceivedBy": ["app_app44", "app_app42", "app_app43", "app_app12", "app_app17", "app_app21", "app_app8", "app_app5"], "type": "Observation", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}

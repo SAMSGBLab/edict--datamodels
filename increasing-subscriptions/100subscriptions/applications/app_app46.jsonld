@@ -1,0 +1,1 @@
+{"name": "app_app46", "id": "app_app46", "applicationCategory": "VS", "priority": 0, "processingRate": 1000, "processingDistribution": "exponential", "receivesObservation": ["topic_videosurveillance"], "type": "Application", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}

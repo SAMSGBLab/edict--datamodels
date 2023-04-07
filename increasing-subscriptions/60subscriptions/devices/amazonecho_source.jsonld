@@ -1,0 +1,1 @@
+{"id": "amazonecho_source", "name": "amazonecho_source", "publishFrequency": 1, "messageSize": 105869.28, "dataDistribution": "exponential", "capturesObservation": ["topic_amazonecho"], "type": "Device", "@context": ["https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"]}
