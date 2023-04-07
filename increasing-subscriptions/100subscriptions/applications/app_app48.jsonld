@@ -1,9 +1,10 @@
 {
+    "id": "app_app48",
+    "type": "Application",
     "name": {
         "type": "Property",
         "value": "app_app48"
     },
-    "id": "app_app48",
     "applicationCategory": {
         "type": "Property",
         "value": "VS"
@@ -26,8 +27,7 @@
             "topic_occupancymanagement"
         ]
     },
-    "type": "Application",
     "@context": [
-        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+        "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"
     ]
 }

@@ -1,5 +1,6 @@
 {
     "id": "topic_topic18",
+    "type": "Observation",
     "name": {
         "type": "Property",
         "value": "topic_topic18"
@@ -21,8 +22,7 @@
             "app_app12"
         ]
     },
-    "type": "Observation",
     "@context": [
-        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+        "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"
     ]
 }

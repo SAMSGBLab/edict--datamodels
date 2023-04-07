@@ -1,9 +1,10 @@
 {
+    "id": "app_app8",
+    "type": "Application",
     "name": {
         "type": "Property",
         "value": "app_app8"
     },
-    "id": "app_app8",
     "applicationCategory": {
         "type": "Property",
         "value": "AN"
@@ -30,8 +31,7 @@
             "topic_bms"
         ]
     },
-    "type": "Application",
     "@context": [
-        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+        "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"
     ]
 }

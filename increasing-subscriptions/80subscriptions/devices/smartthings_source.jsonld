@@ -1,5 +1,6 @@
 {
     "id": "smartthings_source",
+    "type": "Device",
     "name": {
         "type": "Property",
         "value": "smartthings_source"
@@ -22,8 +23,7 @@
             "topic_smartthings"
         ]
     },
-    "type": "Device",
     "@context": [
-        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+        "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"
     ]
 }

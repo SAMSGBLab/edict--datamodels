@@ -1,9 +1,10 @@
 {
+    "id": "topic_smartthings",
+    "type": "Observation",
     "name": {
         "type": "Property",
         "value": "topic_smartthings"
     },
-    "id": "topic_smartthings",
     "priority": {
         "type": "Property",
         "value": 0
@@ -26,8 +27,7 @@
             "app_app21"
         ]
     },
-    "type": "Observation",
     "@context": [
-        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+        "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"
     ]
 }

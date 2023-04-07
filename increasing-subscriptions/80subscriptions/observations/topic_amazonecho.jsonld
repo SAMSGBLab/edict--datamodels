@@ -1,9 +1,10 @@
 {
+    "id": "topic_amazonecho",
+    "type": "Observation",
     "name": {
         "type": "Property",
         "value": "topic_amazonecho"
     },
-    "id": "topic_amazonecho",
     "priority": {
         "type": "Property",
         "value": 0
@@ -27,8 +28,7 @@
             "app_app14"
         ]
     },
-    "type": "Observation",
     "@context": [
-        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+        "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"
     ]
 }

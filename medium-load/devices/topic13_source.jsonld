@@ -1,5 +1,6 @@
 {
     "id": "topic13_source",
+    "type": "Device",
     "name": {
         "type": "Property",
         "value": "topic13_source"
@@ -22,8 +23,7 @@
             "topic_topic13"
         ]
     },
-    "type": "Device",
     "@context": [
-        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+        "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"
     ]
 }

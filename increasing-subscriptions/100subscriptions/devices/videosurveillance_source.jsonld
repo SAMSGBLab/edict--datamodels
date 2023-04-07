@@ -1,5 +1,6 @@
 {
     "id": "videosurveillance_source",
+    "type": "Device",
     "name": {
         "type": "Property",
         "value": "videosurveillance_source"
@@ -22,8 +23,7 @@
             "topic_videosurveillance"
         ]
     },
-    "type": "Device",
     "@context": [
-        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+        "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"
     ]
 }

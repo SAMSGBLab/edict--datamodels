@@ -1,9 +1,10 @@
 {
+    "id": "app_app26",
+    "type": "Application",
     "name": {
         "type": "Property",
         "value": "app_app26"
     },
-    "id": "app_app26",
     "applicationCategory": {
         "type": "Property",
         "value": "RT"
@@ -26,8 +27,7 @@
             "topic_videosurveillance"
         ]
     },
-    "type": "Application",
     "@context": [
-        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+        "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"
     ]
 }

@@ -1,9 +1,10 @@
 {
+    "id": "topic_intrusiondetection",
+    "type": "Observation",
     "name": {
         "type": "Property",
         "value": "topic_intrusiondetection"
     },
-    "id": "topic_intrusiondetection",
     "priority": {
         "type": "Property",
         "value": 0
@@ -24,8 +25,7 @@
             "app_app2"
         ]
     },
-    "type": "Observation",
     "@context": [
-        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+        "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"
     ]
 }

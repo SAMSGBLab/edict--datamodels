@@ -1,9 +1,10 @@
 {
+    "id": "topic_firedetection",
+    "type": "Observation",
     "name": {
         "type": "Property",
         "value": "topic_firedetection"
     },
-    "id": "topic_firedetection",
     "priority": {
         "type": "Property",
         "value": 0
@@ -23,8 +24,7 @@
             "app_app1"
         ]
     },
-    "type": "Observation",
     "@context": [
-        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+        "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"
     ]
 }

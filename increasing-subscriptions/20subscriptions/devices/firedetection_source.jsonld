@@ -1,5 +1,6 @@
 {
     "id": "firedetection_source",
+    "type": "Device",
     "name": {
         "type": "Property",
         "value": "firedetection_source"
@@ -22,8 +23,7 @@
             "topic_firedetection"
         ]
     },
-    "type": "Device",
     "@context": [
-        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+        "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"
     ]
 }

@@ -1,9 +1,10 @@
 {
+    "id": "app_app32",
+    "type": "Application",
     "name": {
         "type": "Property",
         "value": "app_app32"
     },
-    "id": "app_app32",
     "applicationCategory": {
         "type": "Property",
         "value": "RT"
@@ -27,8 +28,7 @@
             "topic_amazonecho"
         ]
     },
-    "type": "Application",
     "@context": [
-        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+        "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"
     ]
 }

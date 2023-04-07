@@ -1,9 +1,10 @@
 {
+    "id": "app_app10",
+    "type": "Application",
     "name": {
         "type": "Property",
         "value": "app_app10"
     },
-    "id": "app_app10",
     "applicationCategory": {
         "type": "Property",
         "value": "TS"
@@ -29,8 +30,7 @@
             "topic_topic18"
         ]
     },
-    "type": "Application",
     "@context": [
-        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+        "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"
     ]
 }

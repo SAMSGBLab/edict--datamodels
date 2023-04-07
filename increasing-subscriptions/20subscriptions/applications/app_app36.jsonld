@@ -1,9 +1,10 @@
 {
+    "id": "app_app36",
+    "type": "Application",
     "name": {
         "type": "Property",
         "value": "app_app36"
     },
-    "id": "app_app36",
     "applicationCategory": {
         "type": "Property",
         "value": "VS"
@@ -27,8 +28,7 @@
             "topic_intrusiondetection"
         ]
     },
-    "type": "Application",
     "@context": [
-        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+        "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"
     ]
 }

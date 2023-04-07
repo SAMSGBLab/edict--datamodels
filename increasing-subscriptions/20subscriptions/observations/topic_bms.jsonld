@@ -1,9 +1,10 @@
 {
+    "id": "topic_bms",
+    "type": "Observation",
     "name": {
         "type": "Property",
         "value": "topic_bms"
     },
-    "id": "topic_bms",
     "priority": {
         "type": "Property",
         "value": 0
@@ -21,8 +22,7 @@
             "app_app21"
         ]
     },
-    "type": "Observation",
     "@context": [
-        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+        "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"
     ]
 }

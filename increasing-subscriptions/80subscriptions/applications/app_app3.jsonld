@@ -1,9 +1,10 @@
 {
+    "id": "app_app3",
+    "type": "Application",
     "name": {
         "type": "Property",
         "value": "app_app3"
     },
-    "id": "app_app3",
     "applicationCategory": {
         "type": "Property",
         "value": "AN"
@@ -27,8 +28,7 @@
             "topic_smartthings"
         ]
     },
-    "type": "Application",
     "@context": [
-        "https://raw.githubusercontent.com/mahditrabolsi/ngsi_test/main/context.json"
+        "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"
     ]
 }
