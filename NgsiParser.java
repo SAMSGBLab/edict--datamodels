@@ -24,7 +24,7 @@ public class NgsiParser {
 
     public static void main(String[] args) {
 
-        String folder = "C:\\Users\\HP\\Documents\\NGSI\\edict--datamodels\\medium-load";
+        String folder = "medium-load";
         File[] folders = new File(folder).listFiles();
 
         for (File model : folders) {
