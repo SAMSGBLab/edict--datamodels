@@ -1,0 +1,25 @@
+{
+    "id": "anQosRequirement",
+
+    "type": "QosREquirement",
+    "name": {
+        "type": "Property",
+        "value": "analytics"
+    },
+    "maxResponseTime": {
+        "type": "Property",
+        "value": "10"
+    },
+    "minThroughput": {
+        "type": "Property",
+        "value": "0"
+    },
+    "maxDropRate": {
+        "type": "Property",
+        "value": "0.1"
+    },
+
+    "@context": [
+        "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"
+    ]
+}

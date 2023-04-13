@@ -1,0 +1,25 @@
+{
+    "id": "rtQosRequirement",
+
+    "type": "QosREquirement",
+    "name": {
+        "type": "Property",
+        "value": "realtime"
+    },
+    "maxResponseTime": {
+        "type": "Property",
+        "value": "0.4"
+    },
+    "minThroughput": {
+        "type": "Property",
+        "value": "28.2"
+    },
+    "maxDropRate": {
+        "type": "Property",
+        "value": "0.02"
+    },
+
+    "@context": [
+        "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"
+    ]
+}

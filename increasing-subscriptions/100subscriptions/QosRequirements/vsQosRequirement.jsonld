@@ -1,0 +1,25 @@
+{
+    "id": "vsQosRequirement",
+
+    "type": "QosREquirement",
+    "name": {
+        "type": "Property",
+        "value": "videostreaming"
+    },
+    "maxResponseTime": {
+        "type": "Property",
+        "value": "2"
+    },
+    "minThroughput": {
+        "type": "Property",
+        "value": "202"
+    },
+    "maxDropRate": {
+        "type": "Property",
+        "value": "0.2"
+    },
+
+    "@context": [
+        "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"
+    ]
+}
