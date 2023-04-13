@@ -1,0 +1,25 @@
+{
+    "id": "tsQosRequirement",
+
+    "type": "QosRequirement",
+    "name": {
+        "type": "Property",
+        "value": "transactional"
+    },
+    "maxResponseTime": {
+        "type": "Property",
+        "value": "4"
+    },
+    "minThroughput": {
+        "type": "Property",
+        "value": "0"
+    },
+    "maxDropRate": {
+        "type": "Property",
+        "value": "0"
+    },
+
+    "@context": [
+        "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"
+    ]
+}
