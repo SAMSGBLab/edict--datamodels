@@ -1,7 +1,7 @@
 {
     "id": "anQosRequirement",
 
-    "type": "QosREquirement",
+    "type": "QosRequirement",
     "name": {
         "type": "Property",
         "value": "analytics"

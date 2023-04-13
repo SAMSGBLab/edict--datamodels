@@ -1,7 +1,7 @@
 {
     "id": "tsQosRequirement",
 
-    "type": "QosREquirement",
+    "type": "QosRequirement",
     "name": {
         "type": "Property",
         "value": "transactional"
