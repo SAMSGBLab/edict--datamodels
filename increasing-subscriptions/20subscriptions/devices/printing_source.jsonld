@@ -1,5 +1,5 @@
 {
-    "id": "printing_source",
+    "id": "urn:ngsi-ld:edict:Device:3dfa65de-1515-4346-be63-9e31f0000f7a",
     "type": "Device",
     "name": {
         "type": "Property",

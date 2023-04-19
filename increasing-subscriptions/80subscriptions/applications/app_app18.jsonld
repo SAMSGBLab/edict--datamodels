@@ -1,5 +1,5 @@
 {
-    "id": "app_app18",
+    "id": "urn:ngsi-ld:edict:Application:5ff14a89-8546-44a4-b076-171d32541de6",
     "type": "Application",
     "name": {
         "type": "Property",

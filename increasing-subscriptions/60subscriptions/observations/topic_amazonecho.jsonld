@@ -1,5 +1,5 @@
 {
-    "id": "topic_amazonecho",
+    "id": "urn:ngsi-ld:edict:Observation:53664a5b-a480-4e50-b864-984c93521e9a",
     "type": "Observation",
     "name": {
         "type": "Property",

@@ -1,5 +1,5 @@
 {
-    "id": "topic_occupancymanagement",
+    "id": "urn:ngsi-ld:edict:Observation:495a9cdb-2d25-46c8-9ae0-3244785fecb9",
     "type": "Observation",
     "name": {
         "type": "Property",

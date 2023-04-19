@@ -1,5 +1,5 @@
 {
-    "id": "topic26_source",
+    "id": "urn:ngsi-ld:edict:Device:d60c20c4-a34a-47da-a407-75326162459c",
     "type": "Device",
     "name": {
         "type": "Property",

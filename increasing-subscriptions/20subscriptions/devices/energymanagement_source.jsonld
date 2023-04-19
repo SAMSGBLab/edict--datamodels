@@ -1,5 +1,5 @@
 {
-    "id": "energymanagement_source",
+    "id": "urn:ngsi-ld:edict:Device:cd6e87f5-6cb4-450c-b3b9-dfae479bed67",
     "type": "Device",
     "name": {
         "type": "Property",

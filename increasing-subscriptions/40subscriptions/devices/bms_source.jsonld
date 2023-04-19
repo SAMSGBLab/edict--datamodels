@@ -1,5 +1,5 @@
 {
-    "id": "bms_source",
+    "id": "urn:ngsi-ld:edict:Device:5abf5c32-3e9c-4b82-9c17-78e008a6f941",
     "type": "Device",
     "name": {
         "type": "Property",

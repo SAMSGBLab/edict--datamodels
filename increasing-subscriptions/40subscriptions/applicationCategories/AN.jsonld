@@ -1,5 +1,5 @@
 {
-    "id": "AN",
+    "id": "urn:ngsi-ld:edict:ApplicationCategory:c2669acc-80cf-4d1c-8242-46f2693450ab",
     "type": "ApplicationCategory",
     "name": {
         "type": "Property",

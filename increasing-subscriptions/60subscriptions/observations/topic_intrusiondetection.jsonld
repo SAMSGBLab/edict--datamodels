@@ -1,5 +1,5 @@
 {
-    "id": "topic_intrusiondetection",
+    "id": "urn:ngsi-ld:edict:Observation:cf4be196-f26c-42e7-8c96-165239190f72",
     "type": "Observation",
     "name": {
         "type": "Property",

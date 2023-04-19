@@ -1,5 +1,5 @@
 {
-    "id": "videosurveillance_source",
+    "id": "urn:ngsi-ld:edict:Device:262f1f0d-d8a1-41f4-952d-5af50a8121e3",
     "type": "Device",
     "name": {
         "type": "Property",

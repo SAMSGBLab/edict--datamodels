@@ -1,6 +1,5 @@
 {
-    "id": "rtQosRequirement",
-
+    "id": "urn:ngsi-ld:edict:QosRequirement:ae4ded76-8439-4265-ad70-5294e8bc709a",
     "type": "QosRequirement",
     "name": {
         "type": "Property",
@@ -18,7 +17,6 @@
         "type": "Property",
         "value": "0.02"
     },
-
     "@context": [
         "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"
     ]

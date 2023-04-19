@@ -1,5 +1,5 @@
 {
-    "id": "topic_printing",
+    "id": "urn:ngsi-ld:edict:Observation:67086175-c9d4-4cb5-bc8f-c7882f693683",
     "type": "Observation",
     "name": {
         "type": "Property",

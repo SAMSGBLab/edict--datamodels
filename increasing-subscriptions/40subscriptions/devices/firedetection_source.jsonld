@@ -1,5 +1,5 @@
 {
-    "id": "firedetection_source",
+    "id": "urn:ngsi-ld:edict:Device:cc168f64-fcaf-4f97-9d9c-f1e1e62edbf6",
     "type": "Device",
     "name": {
         "type": "Property",

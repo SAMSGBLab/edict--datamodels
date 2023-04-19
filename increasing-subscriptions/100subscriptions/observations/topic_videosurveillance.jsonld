@@ -1,5 +1,5 @@
 {
-    "id": "topic_videosurveillance",
+    "id": "urn:ngsi-ld:edict:Observation:d3e6cdce-a399-43cb-8246-d0fb08dc01e9",
     "type": "Observation",
     "name": {
         "type": "Property",

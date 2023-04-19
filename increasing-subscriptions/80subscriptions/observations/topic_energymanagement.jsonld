@@ -1,5 +1,5 @@
 {
-    "id": "topic_energymanagement",
+    "id": "urn:ngsi-ld:edict:Observation:99b37cb5-b05e-4cb0-ad90-a6650b4e285a",
     "type": "Observation",
     "name": {
         "type": "Property",

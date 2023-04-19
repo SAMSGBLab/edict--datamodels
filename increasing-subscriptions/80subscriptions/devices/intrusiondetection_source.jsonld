@@ -1,5 +1,5 @@
 {
-    "id": "intrusiondetection_source",
+    "id": "urn:ngsi-ld:edict:Device:f026ddc2-2975-4596-ba8e-421938559c40",
     "type": "Device",
     "name": {
         "type": "Property",

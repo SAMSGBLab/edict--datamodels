@@ -1,5 +1,5 @@
 {
-    "id": "topic_smartthings",
+    "id": "urn:ngsi-ld:edict:Observation:b4af92ad-015b-4a09-ace9-5fb78a26d45c",
     "type": "Observation",
     "name": {
         "type": "Property",

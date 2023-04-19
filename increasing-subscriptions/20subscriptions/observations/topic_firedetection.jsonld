@@ -1,5 +1,5 @@
 {
-    "id": "topic_firedetection",
+    "id": "urn:ngsi-ld:edict:Observation:1664bb9a-834b-4813-9fe2-11388f5d548b",
     "type": "Observation",
     "name": {
         "type": "Property",

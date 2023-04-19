@@ -1,5 +1,5 @@
 {
-    "id": "occupancymanagement_source",
+    "id": "urn:ngsi-ld:edict:Device:1d61d4bd-8d1a-477e-b611-f0548161efe0",
     "type": "Device",
     "name": {
         "type": "Property",

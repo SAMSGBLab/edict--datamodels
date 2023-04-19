@@ -1,5 +1,5 @@
 {
-    "id": "VS",
+    "id": "urn:ngsi-ld:edict:ApplicationCategory:759f5acb-051a-4896-bb0b-b39323017b2b",
     "type": "ApplicationCategory",
     "name": {
         "type": "Property",

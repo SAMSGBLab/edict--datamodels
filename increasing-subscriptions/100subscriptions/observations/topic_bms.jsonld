@@ -1,5 +1,5 @@
 {
-    "id": "topic_bms",
+    "id": "urn:ngsi-ld:edict:Observation:af016a84-fe52-493a-8e7f-e0859f6febd5",
     "type": "Observation",
     "name": {
         "type": "Property",

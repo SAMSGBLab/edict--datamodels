@@ -1,5 +1,5 @@
 {
-    "id": "amazonecho_source",
+    "id": "urn:ngsi-ld:edict:Device:c2851be5-73d9-4d91-bc4c-1e1b27fc475d",
     "type": "Device",
     "name": {
         "type": "Property",

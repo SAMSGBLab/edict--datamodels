@@ -1,5 +1,5 @@
 {
-    "id": "smartthings_source",
+    "id": "urn:ngsi-ld:edict:Device:c1a1d6a3-32af-4b98-844c-ebaa4835fff0",
     "type": "Device",
     "name": {
         "type": "Property",
