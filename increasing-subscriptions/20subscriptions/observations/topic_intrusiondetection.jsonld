@@ -12,15 +12,15 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "intrusiondetection_source"
+            "urn:ngsi-ld:edict:Device:ae8223a8-e285-4a9c-8a84-0abe067a1082"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app36",
-            "app_app21",
-            "app_app2"
+            "urn:ngsi-ld:edict:Application:682cada5-4631-4043-a52e-66beff51a7af",
+            "urn:ngsi-ld:edict:Application:b28b25d0-9822-4055-a42e-28215d2aec78",
+            "urn:ngsi-ld:edict:Application:a6480e76-bf31-4e4f-a38b-113a0d8add2d"
         ]
     },
     "@context": [

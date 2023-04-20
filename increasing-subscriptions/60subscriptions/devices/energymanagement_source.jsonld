@@ -20,7 +20,7 @@
     "capturesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_energymanagement"
+            "urn:ngsi-ld:edict:Observation:ebce1aeb-71b8-4b6a-b65f-e48a58fbe6eb"
         ]
     },
     "@context": [

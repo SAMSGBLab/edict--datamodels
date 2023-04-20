@@ -12,16 +12,16 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "occupancymanagement_source"
+            "urn:ngsi-ld:edict:Device:082f31f9-c299-4805-a4be-b47173b1a833"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app36",
-            "app_app37",
-            "app_app12",
-            "app_app21"
+            "urn:ngsi-ld:edict:Application:46fae5cc-7a43-4906-b867-53193da0645e",
+            "urn:ngsi-ld:edict:Application:40deec1b-38a5-40bc-ae58-cccd7e11f13c",
+            "urn:ngsi-ld:edict:Application:cfc294ad-d3e2-4187-b8d0-5bdfc3239bf1",
+            "urn:ngsi-ld:edict:Application:25f39d33-cb4f-4b63-a59b-64c5a172cf41"
         ]
     },
     "@context": [

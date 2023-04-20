@@ -12,13 +12,13 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "amazonecho_source"
+            "urn:ngsi-ld:edict:Device:b1a68f71-30db-40f1-bff4-fee321782e37"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app21"
+            "urn:ngsi-ld:edict:Application:b28b25d0-9822-4055-a42e-28215d2aec78"
         ]
     },
     "@context": [

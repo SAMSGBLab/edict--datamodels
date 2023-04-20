@@ -12,19 +12,19 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "intrusiondetection_source"
+            "urn:ngsi-ld:edict:Device:19484de9-d8fd-4b11-a5c2-48445d4c0d89"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app36",
-            "app_app41",
-            "app_app40",
-            "app_app21",
-            "app_app24",
-            "app_app2",
-            "app_app6"
+            "urn:ngsi-ld:edict:Application:22dca1ce-5ae5-4a5d-9e6a-354adbe0858b",
+            "urn:ngsi-ld:edict:Application:aa76e67c-0afd-4b00-a0f5-d93925aaf2d3",
+            "urn:ngsi-ld:edict:Application:76c8492d-72bf-4e8c-9d19-56e51573db3b",
+            "urn:ngsi-ld:edict:Application:382aebc0-552e-4f64-a455-538bc06c5e40",
+            "urn:ngsi-ld:edict:Application:e81836c0-eb48-42ca-aba4-e1234d9a6b0f",
+            "urn:ngsi-ld:edict:Application:1e080b3c-8237-454a-82a7-448421cf465d",
+            "urn:ngsi-ld:edict:Application:f37fecc5-e4eb-4b25-b7fd-cef22cd99ad9"
         ]
     },
     "@context": [

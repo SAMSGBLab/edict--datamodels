@@ -12,15 +12,15 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "firedetection_source"
+            "urn:ngsi-ld:edict:Device:db7b7234-0ffe-4d7a-9e88-99c5f0be995b"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app22",
-            "app_app23",
-            "app_app1"
+            "urn:ngsi-ld:edict:Application:194f92c1-11fb-4b3a-b74c-24d8a3dfaf87",
+            "urn:ngsi-ld:edict:Application:5225ad16-41b1-4bfd-81d3-9599292e034c",
+            "urn:ngsi-ld:edict:Application:8061cbc6-8267-46c8-a2bb-7fe202c60d0a"
         ]
     },
     "@context": [

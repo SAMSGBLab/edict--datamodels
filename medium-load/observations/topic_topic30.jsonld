@@ -12,15 +12,15 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "topic30_source"
+            "urn:ngsi-ld:edict:Device:0a3c842b-259a-4ded-afc4-c05bfaf25ec9"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app7",
-            "app_app15",
-            "app_app16"
+            "urn:ngsi-ld:edict:Application:6923a0f6-6920-43e7-86d0-2b2bd78e8f4c",
+            "urn:ngsi-ld:edict:Application:095bea51-ee7e-46e4-9c04-f5dec858d0ae",
+            "urn:ngsi-ld:edict:Application:606945f6-1737-43c5-9949-3e18939de069"
         ]
     },
     "@context": [

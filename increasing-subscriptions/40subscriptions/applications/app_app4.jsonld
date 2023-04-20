@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "AN"
+        "value": "urn:ngsi-ld:edict:ApplicationCategory:c2669acc-80cf-4d1c-8242-46f2693450ab"
     },
     "priority": {
         "type": "Property",
@@ -24,8 +24,8 @@
     "receivesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_printing",
-            "topic_videosurveillance"
+            "urn:ngsi-ld:edict:Observation:41d9aaa3-8de7-416f-965c-b8db024b9035",
+            "urn:ngsi-ld:edict:Observation:249874f1-e313-4082-826d-35f520d517c8"
         ]
     },
     "@context": [

@@ -12,20 +12,20 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "videosurveillance_source"
+            "urn:ngsi-ld:edict:Device:4be8d1d7-9bd6-447b-975a-06c593453533"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app37",
-            "app_app38",
-            "app_app46",
-            "app_app39",
-            "app_app26",
-            "app_app7",
-            "app_app4",
-            "app_app36"
+            "urn:ngsi-ld:edict:Application:54f9f54e-de3a-436b-a21b-b2f3bb645a81",
+            "urn:ngsi-ld:edict:Application:a1cd12bb-76c7-4fb0-a3bb-ae981c087c8b",
+            "urn:ngsi-ld:edict:Application:fbcb878d-c8a6-40c2-95ae-98c02ab11298",
+            "urn:ngsi-ld:edict:Application:bec71d51-5911-4c6a-b1aa-4795bb95ad08",
+            "urn:ngsi-ld:edict:Application:2759c71e-fa19-4b11-84d5-b41ca6a58f60",
+            "urn:ngsi-ld:edict:Application:672ad71d-0924-470c-837e-43663900af0f",
+            "urn:ngsi-ld:edict:Application:1ee449c0-e21b-43c5-b72f-ab091de7181f",
+            "urn:ngsi-ld:edict:Application:9b4212d0-918a-46e5-9855-56592260aab8"
         ]
     },
     "@context": [

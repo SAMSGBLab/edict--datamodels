@@ -12,17 +12,17 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "topic2_source"
+            "urn:ngsi-ld:edict:Device:9c210b83-6356-490b-bcce-222d06d7af35"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app1",
-            "app_app7",
-            "app_app9",
-            "app_app13",
-            "app_app15"
+            "urn:ngsi-ld:edict:Application:a3b6dc85-d0c2-4df7-8d54-44544565522f",
+            "urn:ngsi-ld:edict:Application:6923a0f6-6920-43e7-86d0-2b2bd78e8f4c",
+            "urn:ngsi-ld:edict:Application:d9eea58c-3150-42c8-ba41-85d14d82f6c8",
+            "urn:ngsi-ld:edict:Application:7ba64233-dedf-404a-baef-07b2d1a6f0c8",
+            "urn:ngsi-ld:edict:Application:095bea51-ee7e-46e4-9c04-f5dec858d0ae"
         ]
     },
     "@context": [

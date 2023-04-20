@@ -20,7 +20,7 @@
     "capturesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_videosurveillance"
+            "urn:ngsi-ld:edict:Observation:ee4d7bcd-e009-4bdf-a8b0-130cc0cf4117"
         ]
     },
     "@context": [

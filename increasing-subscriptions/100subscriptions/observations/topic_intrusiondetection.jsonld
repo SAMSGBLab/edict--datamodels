@@ -12,21 +12,21 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "intrusiondetection_source"
+            "urn:ngsi-ld:edict:Device:9f316f01-00b7-40d5-9c59-37c7f77cf89b"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app36",
-            "app_app45",
-            "app_app47",
-            "app_app41",
-            "app_app40",
-            "app_app21",
-            "app_app24",
-            "app_app2",
-            "app_app6"
+            "urn:ngsi-ld:edict:Application:9217d186-4970-4178-83c1-022f17820563",
+            "urn:ngsi-ld:edict:Application:93db0d0a-a11d-413e-a6b4-663988b763d7",
+            "urn:ngsi-ld:edict:Application:bde1f6ad-fa19-4296-9e60-e1a43dbd2bbc",
+            "urn:ngsi-ld:edict:Application:fa9e5c3a-bc11-436b-a1ca-aedac3c14e52",
+            "urn:ngsi-ld:edict:Application:3f3397e2-660d-44e1-9d00-265423a3f0ff",
+            "urn:ngsi-ld:edict:Application:a57f3d9e-d321-4b6e-96c7-e6ceb81a4c76",
+            "urn:ngsi-ld:edict:Application:d6de29cf-86e7-4fb7-8e99-73beb11e894f",
+            "urn:ngsi-ld:edict:Application:321cf3f9-bf0e-4435-a5ec-59f4393081b1",
+            "urn:ngsi-ld:edict:Application:876c79a2-43fb-4984-bcf3-04e9c5c0a6fd"
         ]
     },
     "@context": [

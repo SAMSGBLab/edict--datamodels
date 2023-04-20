@@ -20,7 +20,7 @@
     "capturesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_firedetection"
+            "urn:ngsi-ld:edict:Observation:3b896fda-a399-4882-ad08-dade49bcfd50"
         ]
     },
     "@context": [

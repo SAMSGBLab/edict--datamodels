@@ -12,24 +12,24 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "occupancymanagement_source"
+            "urn:ngsi-ld:edict:Device:084dfe06-61d8-4361-9dc6-721a99aba848"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app44",
-            "app_app48",
-            "app_app50",
-            "app_app42",
-            "app_app43",
-            "app_app19",
-            "app_app12",
-            "app_app17",
-            "app_app34",
-            "app_app21",
-            "app_app8",
-            "app_app5"
+            "urn:ngsi-ld:edict:Application:de77d0fc-100b-4dfe-954c-5feb9be263f0",
+            "urn:ngsi-ld:edict:Application:2beaa14f-a7da-4895-be7d-bac4fb6aafaf",
+            "urn:ngsi-ld:edict:Application:dac34583-9f88-454d-8761-6ae205ddfcdf",
+            "urn:ngsi-ld:edict:Application:b6881488-0587-4705-8e5b-08a4aee1cc16",
+            "urn:ngsi-ld:edict:Application:f7c85a42-f297-4820-a315-ce6a1690f195",
+            "urn:ngsi-ld:edict:Application:7894bb3b-b7ea-4ed2-a37b-0be2d58fefbf",
+            "urn:ngsi-ld:edict:Application:7364cac0-baf1-4dd8-b752-10ab8beed922",
+            "urn:ngsi-ld:edict:Application:544c8858-9c9f-4628-a596-f3859ed5e61e",
+            "urn:ngsi-ld:edict:Application:14edd782-8e45-434c-9d12-d06d64b172e1",
+            "urn:ngsi-ld:edict:Application:a57f3d9e-d321-4b6e-96c7-e6ceb81a4c76",
+            "urn:ngsi-ld:edict:Application:3a1c2d6c-a56e-4d5c-a1fb-17d141c638a5",
+            "urn:ngsi-ld:edict:Application:50ccde9b-1128-4ff7-87c4-40c547fbc85e"
         ]
     },
     "@context": [

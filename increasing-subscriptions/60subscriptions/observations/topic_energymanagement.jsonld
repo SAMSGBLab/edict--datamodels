@@ -12,21 +12,21 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "energymanagement_source"
+            "urn:ngsi-ld:edict:Device:05c72f8f-b035-4cee-9624-0c92c0dce1bd"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app5",
-            "app_app6",
-            "app_app2",
-            "app_app27",
-            "app_app4",
-            "app_app3",
-            "app_app12",
-            "app_app1",
-            "app_app24"
+            "urn:ngsi-ld:edict:Application:2e93ada1-4f18-43a9-a0d9-ac4f668e215b",
+            "urn:ngsi-ld:edict:Application:f37fecc5-e4eb-4b25-b7fd-cef22cd99ad9",
+            "urn:ngsi-ld:edict:Application:1e080b3c-8237-454a-82a7-448421cf465d",
+            "urn:ngsi-ld:edict:Application:8c04e8bf-20e7-41da-8b2b-079b4a666540",
+            "urn:ngsi-ld:edict:Application:07d73a12-df6f-47ca-bfa7-23ebce3cdd1e",
+            "urn:ngsi-ld:edict:Application:0f27de47-5a2b-474c-8a0a-99de0cd92a5e",
+            "urn:ngsi-ld:edict:Application:48342716-bd7c-4ea2-a59b-bc5a8095ea58",
+            "urn:ngsi-ld:edict:Application:a29473d4-3c23-44fe-8460-9e912788b084",
+            "urn:ngsi-ld:edict:Application:e81836c0-eb48-42ca-aba4-e1234d9a6b0f"
         ]
     },
     "@context": [

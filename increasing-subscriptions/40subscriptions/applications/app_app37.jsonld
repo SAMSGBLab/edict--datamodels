@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "VS"
+        "value": "urn:ngsi-ld:edict:ApplicationCategory:f03d4111-7770-48a3-b09d-5e2495b79184"
     },
     "priority": {
         "type": "Property",
@@ -24,8 +24,8 @@
     "receivesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_occupancymanagement",
-            "topic_videosurveillance"
+            "urn:ngsi-ld:edict:Observation:2dfcc977-15b5-4496-a302-f9831a7f0cdb",
+            "urn:ngsi-ld:edict:Observation:249874f1-e313-4082-826d-35f520d517c8"
         ]
     },
     "@context": [

@@ -12,17 +12,17 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "intrusiondetection_source"
+            "urn:ngsi-ld:edict:Device:d8d44062-bc7f-47ae-ab6b-240db4c96644"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app36",
-            "app_app41",
-            "app_app40",
-            "app_app21",
-            "app_app2"
+            "urn:ngsi-ld:edict:Application:46fae5cc-7a43-4906-b867-53193da0645e",
+            "urn:ngsi-ld:edict:Application:bda499c1-bb6e-4e51-aa01-480cef08d276",
+            "urn:ngsi-ld:edict:Application:17df3381-2884-48fd-bffe-20075c2d50dd",
+            "urn:ngsi-ld:edict:Application:25f39d33-cb4f-4b63-a59b-64c5a172cf41",
+            "urn:ngsi-ld:edict:Application:76f9fdfb-4315-4e9b-b6ea-44a9367b8646"
         ]
     },
     "@context": [

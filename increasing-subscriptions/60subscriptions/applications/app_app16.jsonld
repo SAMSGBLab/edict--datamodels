@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "TS"
+        "value": "urn:ngsi-ld:edict:ApplicationCategory:35f2f78a-9866-4689-9202-496b401103b5"
     },
     "priority": {
         "type": "Property",
@@ -24,7 +24,7 @@
     "receivesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_printing"
+            "urn:ngsi-ld:edict:Observation:9b2dab89-f48a-4341-b2ae-2d4a6fd16ada"
         ]
     },
     "@context": [

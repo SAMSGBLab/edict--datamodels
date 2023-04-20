@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "VS"
+        "value": "urn:ngsi-ld:edict:ApplicationCategory:6f796dc4-091b-4546-bae3-36aff54db910"
     },
     "priority": {
         "type": "Property",
@@ -24,11 +24,11 @@
     "receivesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_topic2",
-            "topic_topic11",
-            "topic_topic15",
-            "topic_topic24",
-            "topic_topic30"
+            "urn:ngsi-ld:edict:Observation:58f0581d-6791-4f8a-94b7-ad338e6a62fa",
+            "urn:ngsi-ld:edict:Observation:caad67c5-1323-442c-89ec-cb93fcd5867a",
+            "urn:ngsi-ld:edict:Observation:50fbee4c-44bb-4733-bc43-e373ee2a70d3",
+            "urn:ngsi-ld:edict:Observation:3fb7a71a-b5ad-430a-a831-6a5c6f15dc38",
+            "urn:ngsi-ld:edict:Observation:97a21f5f-825c-43c2-ad36-cfa4d79aa9bd"
         ]
     },
     "@context": [

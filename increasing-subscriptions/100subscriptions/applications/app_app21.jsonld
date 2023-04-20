@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "RT"
+        "value": "urn:ngsi-ld:edict:ApplicationCategory:22d3b54c-3012-4bb7-9bb9-9c68654d5fa6"
     },
     "priority": {
         "type": "Property",
@@ -24,10 +24,10 @@
     "receivesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_occupancymanagement",
-            "topic_intrusiondetection",
-            "topic_amazonecho",
-            "topic_smartthings"
+            "urn:ngsi-ld:edict:Observation:495a9cdb-2d25-46c8-9ae0-3244785fecb9",
+            "urn:ngsi-ld:edict:Observation:bf002d9d-9317-4fca-9427-fdc2ab73a5f4",
+            "urn:ngsi-ld:edict:Observation:69e3354a-2f53-4cff-bdf7-62db211ec9c1",
+            "urn:ngsi-ld:edict:Observation:d64fe354-52a5-4b1c-a46b-a5b74e1ad2a0"
         ]
     },
     "@context": [

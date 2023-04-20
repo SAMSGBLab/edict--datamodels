@@ -12,16 +12,16 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "energymanagement_source"
+            "urn:ngsi-ld:edict:Device:1b6201ec-a91d-4d04-8726-adb2e57228e0"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app2",
-            "app_app3",
-            "app_app1",
-            "app_app24"
+            "urn:ngsi-ld:edict:Application:76f9fdfb-4315-4e9b-b6ea-44a9367b8646",
+            "urn:ngsi-ld:edict:Application:0ad0f5d2-6233-4f0c-bcf5-9bf3c42db690",
+            "urn:ngsi-ld:edict:Application:7d354afb-e125-4b27-9449-0ebaa48a0c39",
+            "urn:ngsi-ld:edict:Application:47b5a4fd-f752-4f52-a203-9db0aa944a03"
         ]
     },
     "@context": [

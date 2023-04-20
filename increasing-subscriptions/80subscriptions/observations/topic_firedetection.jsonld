@@ -12,21 +12,21 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "firedetection_source"
+            "urn:ngsi-ld:edict:Device:a5b0eb51-dbf6-4cf1-9154-6fadc365dc04"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app29",
-            "app_app31",
-            "app_app22",
-            "app_app23",
-            "app_app30",
-            "app_app25",
-            "app_app1",
-            "app_app7",
-            "app_app27"
+            "urn:ngsi-ld:edict:Application:6e77ac07-b8e0-4ed1-9d8c-187a3cbee1af",
+            "urn:ngsi-ld:edict:Application:8435497a-b406-46e2-890f-5069f8dfa509",
+            "urn:ngsi-ld:edict:Application:d67d4173-3292-4eea-aee9-788ebc8e76ab",
+            "urn:ngsi-ld:edict:Application:83943436-d545-45ca-9e9d-4ec4fd890d60",
+            "urn:ngsi-ld:edict:Application:1df1a253-e980-40e0-8aca-f18c5f559f33",
+            "urn:ngsi-ld:edict:Application:8499e6ff-d2b5-4784-9518-e1f61edd9b1b",
+            "urn:ngsi-ld:edict:Application:33ef65ac-0bf3-413b-af58-42d98854095c",
+            "urn:ngsi-ld:edict:Application:672ad71d-0924-470c-837e-43663900af0f",
+            "urn:ngsi-ld:edict:Application:675c1bd8-5354-4911-9b07-94dfec22e302"
         ]
     },
     "@context": [

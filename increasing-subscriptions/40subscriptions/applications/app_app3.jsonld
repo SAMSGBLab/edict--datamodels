@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "AN"
+        "value": "urn:ngsi-ld:edict:ApplicationCategory:c2669acc-80cf-4d1c-8242-46f2693450ab"
     },
     "priority": {
         "type": "Property",
@@ -24,9 +24,9 @@
     "receivesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_energymanagement",
-            "topic_amazonecho",
-            "topic_smartthings"
+            "urn:ngsi-ld:edict:Observation:7a7b4fd3-b8b9-420a-968c-4fd9a94842ea",
+            "urn:ngsi-ld:edict:Observation:92266046-c44c-4be0-8f31-8986bdff29dd",
+            "urn:ngsi-ld:edict:Observation:d9989aac-f44d-4bc6-8d9c-6d1baf83dba9"
         ]
     },
     "@context": [

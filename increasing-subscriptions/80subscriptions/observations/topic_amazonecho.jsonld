@@ -12,20 +12,20 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "amazonecho_source"
+            "urn:ngsi-ld:edict:Device:7db02181-292c-4178-a516-d43f9ccd8363"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app32",
-            "app_app27",
-            "app_app30",
-            "app_app21",
-            "app_app7",
-            "app_app8",
-            "app_app5",
-            "app_app14"
+            "urn:ngsi-ld:edict:Application:6c1c4fd0-e1ba-43b2-91bc-585ee6a78ad9",
+            "urn:ngsi-ld:edict:Application:675c1bd8-5354-4911-9b07-94dfec22e302",
+            "urn:ngsi-ld:edict:Application:1df1a253-e980-40e0-8aca-f18c5f559f33",
+            "urn:ngsi-ld:edict:Application:528758a7-84da-4f37-9492-83faa124985f",
+            "urn:ngsi-ld:edict:Application:672ad71d-0924-470c-837e-43663900af0f",
+            "urn:ngsi-ld:edict:Application:0f94e287-3c65-4225-97eb-49da56a524d2",
+            "urn:ngsi-ld:edict:Application:dc487d80-5042-45a8-ba57-6381be487db7",
+            "urn:ngsi-ld:edict:Application:50ae5ce5-e902-4454-a25b-b784423384d9"
         ]
     },
     "@context": [

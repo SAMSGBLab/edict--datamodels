@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "AN"
+        "value": "urn:ngsi-ld:edict:ApplicationCategory:b6f6f265-b115-42b1-abe8-aadee8553e1f"
     },
     "priority": {
         "type": "Property",
@@ -24,10 +24,10 @@
     "receivesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_energymanagement",
-            "topic_firedetection",
-            "topic_smartthings",
-            "topic_bms"
+            "urn:ngsi-ld:edict:Observation:9ca0e735-e98f-4c21-a1e6-c3f42724cad4",
+            "urn:ngsi-ld:edict:Observation:b5e92cd4-778f-484b-b452-b6f09b2df251",
+            "urn:ngsi-ld:edict:Observation:d64fe354-52a5-4b1c-a46b-a5b74e1ad2a0",
+            "urn:ngsi-ld:edict:Observation:af016a84-fe52-493a-8e7f-e0859f6febd5"
         ]
     },
     "@context": [

@@ -12,16 +12,16 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "firedetection_source"
+            "urn:ngsi-ld:edict:Device:cc168f64-fcaf-4f97-9d9c-f1e1e62edbf6"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app22",
-            "app_app23",
-            "app_app25",
-            "app_app1"
+            "urn:ngsi-ld:edict:Application:9c1fd9ca-6b5e-4782-aa63-ec70cf63d085",
+            "urn:ngsi-ld:edict:Application:bfa7fbc9-f447-4428-83bc-aae8652166ac",
+            "urn:ngsi-ld:edict:Application:6728ca06-1767-4251-9d13-18c09cf5238b",
+            "urn:ngsi-ld:edict:Application:7d354afb-e125-4b27-9449-0ebaa48a0c39"
         ]
     },
     "@context": [

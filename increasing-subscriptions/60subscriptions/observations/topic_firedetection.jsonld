@@ -12,18 +12,18 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "firedetection_source"
+            "urn:ngsi-ld:edict:Device:9289e25d-f3f9-4744-8f68-ec7e9250c271"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app29",
-            "app_app22",
-            "app_app23",
-            "app_app25",
-            "app_app1",
-            "app_app27"
+            "urn:ngsi-ld:edict:Application:7c04787c-e525-475e-9cf4-474cb97caa2d",
+            "urn:ngsi-ld:edict:Application:9898cc59-6b21-4b36-a71a-514381a78160",
+            "urn:ngsi-ld:edict:Application:d6a64857-4d17-4976-ba4b-299ac08167a4",
+            "urn:ngsi-ld:edict:Application:a0c7b9c2-5ae3-48af-9848-cd0290374778",
+            "urn:ngsi-ld:edict:Application:a29473d4-3c23-44fe-8460-9e912788b084",
+            "urn:ngsi-ld:edict:Application:8c04e8bf-20e7-41da-8b2b-079b4a666540"
         ]
     },
     "@context": [

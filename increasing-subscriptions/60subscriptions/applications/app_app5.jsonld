@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "AN"
+        "value": "urn:ngsi-ld:edict:ApplicationCategory:b115d0c4-64ff-4e2c-87d4-498c878d04d3"
     },
     "priority": {
         "type": "Property",
@@ -24,10 +24,10 @@
     "receivesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_printing",
-            "topic_energymanagement",
-            "topic_occupancymanagement",
-            "topic_amazonecho"
+            "urn:ngsi-ld:edict:Observation:9b2dab89-f48a-4341-b2ae-2d4a6fd16ada",
+            "urn:ngsi-ld:edict:Observation:ebce1aeb-71b8-4b6a-b65f-e48a58fbe6eb",
+            "urn:ngsi-ld:edict:Observation:1e251ed5-bfac-45a4-b34a-6429acbb219b",
+            "urn:ngsi-ld:edict:Observation:53664a5b-a480-4e50-b864-984c93521e9a"
         ]
     },
     "@context": [

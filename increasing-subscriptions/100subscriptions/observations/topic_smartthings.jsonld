@@ -12,22 +12,22 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "smartthings_source"
+            "urn:ngsi-ld:edict:Device:c1a1d6a3-32af-4b98-844c-ebaa4835fff0"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app28",
-            "app_app34",
-            "app_app11",
-            "app_app14",
-            "app_app9",
-            "app_app3",
-            "app_app1",
-            "app_app8",
-            "app_app21",
-            "app_app35"
+            "urn:ngsi-ld:edict:Application:85ea2164-a03f-4799-9254-b633a1fd8f5a",
+            "urn:ngsi-ld:edict:Application:14edd782-8e45-434c-9d12-d06d64b172e1",
+            "urn:ngsi-ld:edict:Application:a77426c7-a46e-486b-9561-0589fa09150f",
+            "urn:ngsi-ld:edict:Application:723e28fc-b555-4bab-9fd7-c7a4cc82fbfe",
+            "urn:ngsi-ld:edict:Application:28a22c27-bddc-4acf-ac26-54e77e47acda",
+            "urn:ngsi-ld:edict:Application:e71a9454-eafd-4ca1-9e97-1cd15d2772e0",
+            "urn:ngsi-ld:edict:Application:132c3f2b-dbcb-49af-bd2e-1c5e196d2872",
+            "urn:ngsi-ld:edict:Application:3a1c2d6c-a56e-4d5c-a1fb-17d141c638a5",
+            "urn:ngsi-ld:edict:Application:a57f3d9e-d321-4b6e-96c7-e6ceb81a4c76",
+            "urn:ngsi-ld:edict:Application:4c80389e-37ad-4707-92a9-9fc4b3e26402"
         ]
     },
     "@context": [

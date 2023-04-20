@@ -12,17 +12,17 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "printing_source"
+            "urn:ngsi-ld:edict:Device:d1cff374-09a8-4988-8afb-78fbc03682f3"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app12",
-            "app_app11",
-            "app_app13",
-            "app_app4",
-            "app_app2"
+            "urn:ngsi-ld:edict:Application:cfc294ad-d3e2-4187-b8d0-5bdfc3239bf1",
+            "urn:ngsi-ld:edict:Application:06e65a23-205c-4bfd-ade4-c9940d3be514",
+            "urn:ngsi-ld:edict:Application:6133168b-162b-4d18-8dda-c7e97cb1b826",
+            "urn:ngsi-ld:edict:Application:bc4d0886-5e19-4bff-996d-b38ef87accfa",
+            "urn:ngsi-ld:edict:Application:76f9fdfb-4315-4e9b-b6ea-44a9367b8646"
         ]
     },
     "@context": [

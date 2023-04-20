@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "AN"
+        "value": "urn:ngsi-ld:edict:ApplicationCategory:25d0f9db-c1ad-4ac8-b164-f1b276cbcd64"
     },
     "priority": {
         "type": "Property",
@@ -24,9 +24,9 @@
     "receivesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_energymanagement",
-            "topic_firedetection",
-            "topic_smartthings"
+            "urn:ngsi-ld:edict:Observation:ee6c996a-7a99-4255-81c6-e06b127ecf38",
+            "urn:ngsi-ld:edict:Observation:1664bb9a-834b-4813-9fe2-11388f5d548b",
+            "urn:ngsi-ld:edict:Observation:b4af92ad-015b-4a09-ace9-5fb78a26d45c"
         ]
     },
     "@context": [

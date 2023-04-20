@@ -12,15 +12,15 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "videosurveillance_source"
+            "urn:ngsi-ld:edict:Device:70f162ae-cc19-487b-b57b-2634352a0f79"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app38",
-            "app_app36",
-            "app_app2"
+            "urn:ngsi-ld:edict:Application:a2b1c9e5-11e8-473b-b2ba-13f2dedf1c38",
+            "urn:ngsi-ld:edict:Application:682cada5-4631-4043-a52e-66beff51a7af",
+            "urn:ngsi-ld:edict:Application:a6480e76-bf31-4e4f-a38b-113a0d8add2d"
         ]
     },
     "@context": [

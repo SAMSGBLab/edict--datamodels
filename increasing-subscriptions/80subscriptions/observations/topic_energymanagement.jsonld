@@ -12,25 +12,25 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "energymanagement_source"
+            "urn:ngsi-ld:edict:Device:8e8ac554-81ff-488a-b616-e3ca540cccf2"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app5",
-            "app_app6",
-            "app_app2",
-            "app_app27",
-            "app_app7",
-            "app_app4",
-            "app_app3",
-            "app_app8",
-            "app_app12",
-            "app_app1",
-            "app_app32",
-            "app_app24",
-            "app_app30"
+            "urn:ngsi-ld:edict:Application:dc487d80-5042-45a8-ba57-6381be487db7",
+            "urn:ngsi-ld:edict:Application:98c10a8f-4d86-4e63-b801-52d897fd367b",
+            "urn:ngsi-ld:edict:Application:d11b63c8-1da2-4a9c-b7e1-bda673ff1df5",
+            "urn:ngsi-ld:edict:Application:675c1bd8-5354-4911-9b07-94dfec22e302",
+            "urn:ngsi-ld:edict:Application:672ad71d-0924-470c-837e-43663900af0f",
+            "urn:ngsi-ld:edict:Application:1ee449c0-e21b-43c5-b72f-ab091de7181f",
+            "urn:ngsi-ld:edict:Application:24f8ce0d-0936-45a4-8123-ef7a45648265",
+            "urn:ngsi-ld:edict:Application:0f94e287-3c65-4225-97eb-49da56a524d2",
+            "urn:ngsi-ld:edict:Application:68e773d4-7bd8-47e8-b8be-e81ca0196bbb",
+            "urn:ngsi-ld:edict:Application:33ef65ac-0bf3-413b-af58-42d98854095c",
+            "urn:ngsi-ld:edict:Application:6c1c4fd0-e1ba-43b2-91bc-585ee6a78ad9",
+            "urn:ngsi-ld:edict:Application:63f7d19f-15aa-48f0-baea-51e36380c948",
+            "urn:ngsi-ld:edict:Application:1df1a253-e980-40e0-8aca-f18c5f559f33"
         ]
     },
     "@context": [

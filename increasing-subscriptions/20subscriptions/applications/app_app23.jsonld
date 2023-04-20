@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "RT"
+        "value": "urn:ngsi-ld:edict:ApplicationCategory:1cf1484f-d773-4461-95b7-7abc2287c2ea"
     },
     "priority": {
         "type": "Property",
@@ -24,7 +24,7 @@
     "receivesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_firedetection"
+            "urn:ngsi-ld:edict:Observation:1664bb9a-834b-4813-9fe2-11388f5d548b"
         ]
     },
     "@context": [

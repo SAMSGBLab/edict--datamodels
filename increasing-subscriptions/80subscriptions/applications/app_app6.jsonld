@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "AN"
+        "value": "urn:ngsi-ld:edict:ApplicationCategory:4ca1cf62-8c3e-479b-a60f-5d739e698ed3"
     },
     "priority": {
         "type": "Property",
@@ -24,8 +24,8 @@
     "receivesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_energymanagement",
-            "topic_intrusiondetection"
+            "urn:ngsi-ld:edict:Observation:99b37cb5-b05e-4cb0-ad90-a6650b4e285a",
+            "urn:ngsi-ld:edict:Observation:cc065347-5e18-43c6-ae99-34e04d418c62"
         ]
     },
     "@context": [

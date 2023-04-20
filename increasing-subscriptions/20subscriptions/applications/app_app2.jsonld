@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "AN"
+        "value": "urn:ngsi-ld:edict:ApplicationCategory:25d0f9db-c1ad-4ac8-b164-f1b276cbcd64"
     },
     "priority": {
         "type": "Property",
@@ -24,11 +24,11 @@
     "receivesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_printing",
-            "topic_energymanagement",
-            "topic_videosurveillance",
-            "topic_intrusiondetection",
-            "topic_bms"
+            "urn:ngsi-ld:edict:Observation:48befcab-cd86-4b30-8626-558e0caed66b",
+            "urn:ngsi-ld:edict:Observation:ee6c996a-7a99-4255-81c6-e06b127ecf38",
+            "urn:ngsi-ld:edict:Observation:bc219284-047d-4299-9e4e-08a89329986a",
+            "urn:ngsi-ld:edict:Observation:e4abb9c2-e888-4db4-a337-70c4a288f228",
+            "urn:ngsi-ld:edict:Observation:233c41f7-dc3e-4a48-9b6a-173de0613432"
         ]
     },
     "@context": [

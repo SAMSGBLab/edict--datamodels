@@ -20,7 +20,7 @@
     "capturesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_bms"
+            "urn:ngsi-ld:edict:Observation:89055138-8f89-4b28-9681-a0375e3af1c2"
         ]
     },
     "@context": [

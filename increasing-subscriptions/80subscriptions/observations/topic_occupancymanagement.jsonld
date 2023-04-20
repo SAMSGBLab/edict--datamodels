@@ -12,20 +12,20 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "occupancymanagement_source"
+            "urn:ngsi-ld:edict:Device:1d61d4bd-8d1a-477e-b611-f0548161efe0"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app44",
-            "app_app42",
-            "app_app43",
-            "app_app12",
-            "app_app17",
-            "app_app21",
-            "app_app8",
-            "app_app5"
+            "urn:ngsi-ld:edict:Application:cfcef3b3-6dac-478f-b436-6d8dca0344c0",
+            "urn:ngsi-ld:edict:Application:7e6a4681-28df-4f76-859c-b62cca762d71",
+            "urn:ngsi-ld:edict:Application:35fd1ef1-25b1-4577-8c95-577429f68fd5",
+            "urn:ngsi-ld:edict:Application:68e773d4-7bd8-47e8-b8be-e81ca0196bbb",
+            "urn:ngsi-ld:edict:Application:7ce2ba31-0901-44f9-8df3-c6542f32b117",
+            "urn:ngsi-ld:edict:Application:528758a7-84da-4f37-9492-83faa124985f",
+            "urn:ngsi-ld:edict:Application:0f94e287-3c65-4225-97eb-49da56a524d2",
+            "urn:ngsi-ld:edict:Application:dc487d80-5042-45a8-ba57-6381be487db7"
         ]
     },
     "@context": [

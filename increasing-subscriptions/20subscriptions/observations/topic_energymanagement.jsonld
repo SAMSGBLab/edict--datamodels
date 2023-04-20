@@ -12,14 +12,14 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "energymanagement_source"
+            "urn:ngsi-ld:edict:Device:cd6e87f5-6cb4-450c-b3b9-dfae479bed67"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app2",
-            "app_app1"
+            "urn:ngsi-ld:edict:Application:a6480e76-bf31-4e4f-a38b-113a0d8add2d",
+            "urn:ngsi-ld:edict:Application:8061cbc6-8267-46c8-a2bb-7fe202c60d0a"
         ]
     },
     "@context": [

@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "VS"
+        "value": "urn:ngsi-ld:edict:ApplicationCategory:f03d4111-7770-48a3-b09d-5e2495b79184"
     },
     "priority": {
         "type": "Property",
@@ -24,7 +24,7 @@
     "receivesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_intrusiondetection"
+            "urn:ngsi-ld:edict:Observation:9b2f8607-5e57-492b-96ce-2724ec26485f"
         ]
     },
     "@context": [

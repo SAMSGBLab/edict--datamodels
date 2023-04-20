@@ -12,24 +12,24 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "videosurveillance_source"
+            "urn:ngsi-ld:edict:Device:262f1f0d-d8a1-41f4-952d-5af50a8121e3"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app37",
-            "app_app38",
-            "app_app46",
-            "app_app49",
-            "app_app39",
-            "app_app26",
-            "app_app35",
-            "app_app7",
-            "app_app4",
-            "app_app10",
-            "app_app36",
-            "app_app50"
+            "urn:ngsi-ld:edict:Application:9e394281-de52-4806-81a6-6e9d3308f816",
+            "urn:ngsi-ld:edict:Application:90909094-f9bf-4e28-bdec-489affd35b8f",
+            "urn:ngsi-ld:edict:Application:00e4941b-e29b-48e2-98ca-9122fb8349d2",
+            "urn:ngsi-ld:edict:Application:e1189451-6670-44a3-a288-f4edefbe1761",
+            "urn:ngsi-ld:edict:Application:0f1a9776-4923-42c6-81e0-9f6473f2bc53",
+            "urn:ngsi-ld:edict:Application:99e08772-e876-48e4-aaac-f57bd187f80c",
+            "urn:ngsi-ld:edict:Application:4c80389e-37ad-4707-92a9-9fc4b3e26402",
+            "urn:ngsi-ld:edict:Application:47888d78-4e8d-4261-bdea-b4d8fa5ee330",
+            "urn:ngsi-ld:edict:Application:c1de75b0-29da-45b6-9154-f713fbefa384",
+            "urn:ngsi-ld:edict:Application:8b66c8c8-8012-43f6-aad0-66aa05fe3d53",
+            "urn:ngsi-ld:edict:Application:9217d186-4970-4178-83c1-022f17820563",
+            "urn:ngsi-ld:edict:Application:dac34583-9f88-454d-8761-6ae205ddfcdf"
         ]
     },
     "@context": [

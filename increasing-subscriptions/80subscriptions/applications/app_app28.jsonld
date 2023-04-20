@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "RT"
+        "value": "urn:ngsi-ld:edict:ApplicationCategory:d7859eef-dff1-438c-bd9f-a742120fdff2"
     },
     "priority": {
         "type": "Property",
@@ -24,7 +24,7 @@
     "receivesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_smartthings"
+            "urn:ngsi-ld:edict:Observation:9e77f838-4ad8-40ee-bf02-622cf9547580"
         ]
     },
     "@context": [

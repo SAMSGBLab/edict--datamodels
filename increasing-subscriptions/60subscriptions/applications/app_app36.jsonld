@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "VS"
+        "value": "urn:ngsi-ld:edict:ApplicationCategory:d08c3fb7-9d69-4030-960c-eb77e9a3ee2a"
     },
     "priority": {
         "type": "Property",
@@ -24,8 +24,8 @@
     "receivesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_videosurveillance",
-            "topic_intrusiondetection"
+            "urn:ngsi-ld:edict:Observation:ee4d7bcd-e009-4bdf-a8b0-130cc0cf4117",
+            "urn:ngsi-ld:edict:Observation:cf4be196-f26c-42e7-8c96-165239190f72"
         ]
     },
     "@context": [

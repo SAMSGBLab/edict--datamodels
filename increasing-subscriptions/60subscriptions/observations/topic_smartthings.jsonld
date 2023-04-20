@@ -12,18 +12,18 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "smartthings_source"
+            "urn:ngsi-ld:edict:Device:3db97fae-fcd2-4223-96be-9390da5c4429"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app28",
-            "app_app11",
-            "app_app14",
-            "app_app3",
-            "app_app1",
-            "app_app21"
+            "urn:ngsi-ld:edict:Application:dd0f9c7f-7c53-49dc-94b5-5cc197609f4e",
+            "urn:ngsi-ld:edict:Application:75fd014b-7829-4677-bf3a-f7495b23f8e2",
+            "urn:ngsi-ld:edict:Application:4c94cc90-6784-4ebb-b93b-0dbeba7c7d59",
+            "urn:ngsi-ld:edict:Application:0f27de47-5a2b-474c-8a0a-99de0cd92a5e",
+            "urn:ngsi-ld:edict:Application:a29473d4-3c23-44fe-8460-9e912788b084",
+            "urn:ngsi-ld:edict:Application:382aebc0-552e-4f64-a455-538bc06c5e40"
         ]
     },
     "@context": [

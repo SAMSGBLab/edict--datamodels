@@ -12,22 +12,22 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "amazonecho_source"
+            "urn:ngsi-ld:edict:Device:60f900ab-7fd2-45b7-8aab-3346e292a428"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app32",
-            "app_app27",
-            "app_app30",
-            "app_app21",
-            "app_app7",
-            "app_app10",
-            "app_app8",
-            "app_app5",
-            "app_app19",
-            "app_app14"
+            "urn:ngsi-ld:edict:Application:dd6be5b3-db47-417b-8fb9-689083470b05",
+            "urn:ngsi-ld:edict:Application:e0335b73-5db2-40bb-9ed8-ea254bb4a28d",
+            "urn:ngsi-ld:edict:Application:0bad2509-a423-472a-b3ca-efd8c05332c5",
+            "urn:ngsi-ld:edict:Application:a57f3d9e-d321-4b6e-96c7-e6ceb81a4c76",
+            "urn:ngsi-ld:edict:Application:47888d78-4e8d-4261-bdea-b4d8fa5ee330",
+            "urn:ngsi-ld:edict:Application:8b66c8c8-8012-43f6-aad0-66aa05fe3d53",
+            "urn:ngsi-ld:edict:Application:3a1c2d6c-a56e-4d5c-a1fb-17d141c638a5",
+            "urn:ngsi-ld:edict:Application:50ccde9b-1128-4ff7-87c4-40c547fbc85e",
+            "urn:ngsi-ld:edict:Application:7894bb3b-b7ea-4ed2-a37b-0be2d58fefbf",
+            "urn:ngsi-ld:edict:Application:723e28fc-b555-4bab-9fd7-c7a4cc82fbfe"
         ]
     },
     "@context": [

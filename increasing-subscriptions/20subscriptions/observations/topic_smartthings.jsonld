@@ -12,14 +12,14 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "smartthings_source"
+            "urn:ngsi-ld:edict:Device:527b04ad-a2d6-4bfd-90b4-79e7a26c8bf1"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app1",
-            "app_app22"
+            "urn:ngsi-ld:edict:Application:8061cbc6-8267-46c8-a2bb-7fe202c60d0a",
+            "urn:ngsi-ld:edict:Application:194f92c1-11fb-4b3a-b74c-24d8a3dfaf87"
         ]
     },
     "@context": [

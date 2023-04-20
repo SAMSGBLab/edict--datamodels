@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "RT"
+        "value": "urn:ngsi-ld:edict:ApplicationCategory:d7859eef-dff1-438c-bd9f-a742120fdff2"
     },
     "priority": {
         "type": "Property",
@@ -24,8 +24,8 @@
     "receivesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_energymanagement",
-            "topic_amazonecho"
+            "urn:ngsi-ld:edict:Observation:99b37cb5-b05e-4cb0-ad90-a6650b4e285a",
+            "urn:ngsi-ld:edict:Observation:d8f8a53f-d157-44fe-bae2-cffe6a0dc935"
         ]
     },
     "@context": [

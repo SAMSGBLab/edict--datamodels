@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "TS"
+        "value": "urn:ngsi-ld:edict:ApplicationCategory:1c7201fa-3c02-4a13-a6a7-b3db99558153"
     },
     "priority": {
         "type": "Property",
@@ -24,9 +24,9 @@
     "receivesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_printing",
-            "topic_amazonecho",
-            "topic_smartthings"
+            "urn:ngsi-ld:edict:Observation:67086175-c9d4-4cb5-bc8f-c7882f693683",
+            "urn:ngsi-ld:edict:Observation:d8f8a53f-d157-44fe-bae2-cffe6a0dc935",
+            "urn:ngsi-ld:edict:Observation:9e77f838-4ad8-40ee-bf02-622cf9547580"
         ]
     },
     "@context": [

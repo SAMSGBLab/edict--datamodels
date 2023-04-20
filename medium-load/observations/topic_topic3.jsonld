@@ -12,14 +12,14 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "topic3_source"
+            "urn:ngsi-ld:edict:Device:ce7d983d-60b0-4fae-be63-f7029b52b71e"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app2",
-            "app_app3"
+            "urn:ngsi-ld:edict:Application:b27c68c4-052d-4ae4-b345-c60fed958d39",
+            "urn:ngsi-ld:edict:Application:247f96a1-d8ea-4ccc-a575-3569fc169414"
         ]
     },
     "@context": [

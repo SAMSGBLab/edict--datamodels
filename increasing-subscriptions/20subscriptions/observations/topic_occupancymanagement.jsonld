@@ -12,14 +12,14 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "occupancymanagement_source"
+            "urn:ngsi-ld:edict:Device:fc2ce7d1-36ec-4687-98b2-0336c160fda5"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app12",
-            "app_app21"
+            "urn:ngsi-ld:edict:Application:e5bf89ca-5958-486f-82cc-acd81453a04f",
+            "urn:ngsi-ld:edict:Application:b28b25d0-9822-4055-a42e-28215d2aec78"
         ]
     },
     "@context": [

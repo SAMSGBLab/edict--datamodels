@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "TS"
+        "value": "urn:ngsi-ld:edict:ApplicationCategory:35f2f78a-9866-4689-9202-496b401103b5"
     },
     "priority": {
         "type": "Property",
@@ -24,10 +24,10 @@
     "receivesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_printing",
-            "topic_energymanagement",
-            "topic_occupancymanagement",
-            "topic_bms"
+            "urn:ngsi-ld:edict:Observation:9b2dab89-f48a-4341-b2ae-2d4a6fd16ada",
+            "urn:ngsi-ld:edict:Observation:ebce1aeb-71b8-4b6a-b65f-e48a58fbe6eb",
+            "urn:ngsi-ld:edict:Observation:1e251ed5-bfac-45a4-b34a-6429acbb219b",
+            "urn:ngsi-ld:edict:Observation:89055138-8f89-4b28-9681-a0375e3af1c2"
         ]
     },
     "@context": [

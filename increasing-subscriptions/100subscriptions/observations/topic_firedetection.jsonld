@@ -12,22 +12,22 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "firedetection_source"
+            "urn:ngsi-ld:edict:Device:6c222e7b-bbe7-40a8-ab9a-15b23a821bec"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app29",
-            "app_app31",
-            "app_app22",
-            "app_app23",
-            "app_app33",
-            "app_app30",
-            "app_app25",
-            "app_app1",
-            "app_app7",
-            "app_app10"
+            "urn:ngsi-ld:edict:Application:d1382387-bfac-4969-9523-bc8cf6bac28b",
+            "urn:ngsi-ld:edict:Application:8a57f428-7413-4990-87e6-1afb3135ba26",
+            "urn:ngsi-ld:edict:Application:8f62aa85-0be7-4c6a-becf-675b1cf7dd60",
+            "urn:ngsi-ld:edict:Application:c5c4a97b-d4a2-4db0-a3c7-3eacd194d4a9",
+            "urn:ngsi-ld:edict:Application:3c767879-bd05-49c6-82b8-77c929751b20",
+            "urn:ngsi-ld:edict:Application:0bad2509-a423-472a-b3ca-efd8c05332c5",
+            "urn:ngsi-ld:edict:Application:a3dce2c7-8460-44a1-a952-577aff33f8df",
+            "urn:ngsi-ld:edict:Application:132c3f2b-dbcb-49af-bd2e-1c5e196d2872",
+            "urn:ngsi-ld:edict:Application:47888d78-4e8d-4261-bdea-b4d8fa5ee330",
+            "urn:ngsi-ld:edict:Application:8b66c8c8-8012-43f6-aad0-66aa05fe3d53"
         ]
     },
     "@context": [

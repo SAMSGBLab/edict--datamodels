@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "TS"
+        "value": "urn:ngsi-ld:edict:ApplicationCategory:2466916e-c7da-4422-871e-9f0ad87ac47b"
     },
     "priority": {
         "type": "Property",
@@ -24,8 +24,8 @@
     "receivesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_printing",
-            "topic_smartthings"
+            "urn:ngsi-ld:edict:Observation:2858b6a9-f608-45f4-8ba4-4bb5c571d181",
+            "urn:ngsi-ld:edict:Observation:d64fe354-52a5-4b1c-a46b-a5b74e1ad2a0"
         ]
     },
     "@context": [

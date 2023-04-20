@@ -20,7 +20,7 @@
     "capturesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_smartthings"
+            "urn:ngsi-ld:edict:Observation:d9989aac-f44d-4bc6-8d9c-6d1baf83dba9"
         ]
     },
     "@context": [

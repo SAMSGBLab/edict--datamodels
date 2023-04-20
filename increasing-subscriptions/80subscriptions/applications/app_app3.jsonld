@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "AN"
+        "value": "urn:ngsi-ld:edict:ApplicationCategory:4ca1cf62-8c3e-479b-a60f-5d739e698ed3"
     },
     "priority": {
         "type": "Property",
@@ -24,8 +24,8 @@
     "receivesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_energymanagement",
-            "topic_smartthings"
+            "urn:ngsi-ld:edict:Observation:99b37cb5-b05e-4cb0-ad90-a6650b4e285a",
+            "urn:ngsi-ld:edict:Observation:9e77f838-4ad8-40ee-bf02-622cf9547580"
         ]
     },
     "@context": [

@@ -12,16 +12,16 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "topic1_source"
+            "urn:ngsi-ld:edict:Device:394b8591-705b-48ad-bdd2-a53caccd2471"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app1",
-            "app_app3",
-            "app_app5",
-            "app_app7"
+            "urn:ngsi-ld:edict:Application:a3b6dc85-d0c2-4df7-8d54-44544565522f",
+            "urn:ngsi-ld:edict:Application:247f96a1-d8ea-4ccc-a575-3569fc169414",
+            "urn:ngsi-ld:edict:Application:a9cb9dd3-7e2f-4355-a9af-4923671bc747",
+            "urn:ngsi-ld:edict:Application:6923a0f6-6920-43e7-86d0-2b2bd78e8f4c"
         ]
     },
     "@context": [

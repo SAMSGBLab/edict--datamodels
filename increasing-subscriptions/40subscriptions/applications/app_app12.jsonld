@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "TS"
+        "value": "urn:ngsi-ld:edict:ApplicationCategory:b5cb9cdc-b6b3-4822-9ded-872db2e84dda"
     },
     "priority": {
         "type": "Property",
@@ -24,9 +24,9 @@
     "receivesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_printing",
-            "topic_occupancymanagement",
-            "topic_bms"
+            "urn:ngsi-ld:edict:Observation:41d9aaa3-8de7-416f-965c-b8db024b9035",
+            "urn:ngsi-ld:edict:Observation:2dfcc977-15b5-4496-a302-f9831a7f0cdb",
+            "urn:ngsi-ld:edict:Observation:c1949ad1-a7bf-4406-946b-6f2ff181614b"
         ]
     },
     "@context": [

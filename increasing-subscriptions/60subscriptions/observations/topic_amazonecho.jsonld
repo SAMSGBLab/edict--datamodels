@@ -12,17 +12,17 @@
     "isCapturedBy": {
         "type": "Relationship",
         "object": [
-            "amazonecho_source"
+            "urn:ngsi-ld:edict:Device:b4616699-1fb6-484a-b0e9-f9897482d074"
         ]
     },
     "isReceivedBy": {
         "type": "Relationship",
         "object": [
-            "app_app27",
-            "app_app21",
-            "app_app5",
-            "app_app14",
-            "app_app3"
+            "urn:ngsi-ld:edict:Application:8c04e8bf-20e7-41da-8b2b-079b4a666540",
+            "urn:ngsi-ld:edict:Application:382aebc0-552e-4f64-a455-538bc06c5e40",
+            "urn:ngsi-ld:edict:Application:2e93ada1-4f18-43a9-a0d9-ac4f668e215b",
+            "urn:ngsi-ld:edict:Application:4c94cc90-6784-4ebb-b93b-0dbeba7c7d59",
+            "urn:ngsi-ld:edict:Application:0f27de47-5a2b-474c-8a0a-99de0cd92a5e"
         ]
     },
     "@context": [

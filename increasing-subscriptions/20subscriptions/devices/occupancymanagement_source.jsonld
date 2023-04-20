@@ -20,7 +20,7 @@
     "capturesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_occupancymanagement"
+            "urn:ngsi-ld:edict:Observation:b77408a9-bd07-4e5b-89ec-18000e642ccc"
         ]
     },
     "@context": [

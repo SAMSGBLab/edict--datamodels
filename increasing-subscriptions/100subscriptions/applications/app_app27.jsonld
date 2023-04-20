@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "RT"
+        "value": "urn:ngsi-ld:edict:ApplicationCategory:22d3b54c-3012-4bb7-9bb9-9c68654d5fa6"
     },
     "priority": {
         "type": "Property",
@@ -24,8 +24,8 @@
     "receivesObservation": {
         "type": "Relationship",
         "object": [
-            "topic_amazonecho",
-            "topic_bms"
+            "urn:ngsi-ld:edict:Observation:69e3354a-2f53-4cff-bdf7-62db211ec9c1",
+            "urn:ngsi-ld:edict:Observation:af016a84-fe52-493a-8e7f-e0859f6febd5"
         ]
     },
     "@context": [
