@@ -7,7 +7,7 @@
     },
     "applicationCategory": {
         "type": "Property",
-        "value": "urn:ngsi-ld:edict:ApplicationCategory:1cf1484f-d773-4461-95b7-7abc2287c2ea"
+        "object": "urn:ngsi-ld:edict:ApplicationCategory:1cf1484f-d773-4461-95b7-7abc2287c2ea"
     },
     "priority": {
         "type": "Property",
