@@ -6,7 +6,7 @@
         "value": "app_app14"
     },
     "applicationCategory": {
-        "type": "Property",
+        "type": "Relationship",
         "object": "urn:ngsi-ld:edict:ApplicationCategory:6f796dc4-091b-4546-bae3-36aff54db910"
     },
     "priority": {
