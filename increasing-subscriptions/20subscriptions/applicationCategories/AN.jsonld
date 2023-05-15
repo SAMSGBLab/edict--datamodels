@@ -4,6 +4,9 @@
     "name": {
         "type": "Property",
         "value": "analytics"
+    },"code": {
+        "type": "Property",
+        "value": "AN" 
     },
     "@context": [
         "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"

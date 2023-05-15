@@ -1,9 +1,12 @@
 {
     "id": "urn:ngsi-ld:edict:ApplicationCategory:f03d4111-7770-48a3-b09d-5e2495b79184",
-    "type": "ApplicationCategory",
+        "type": "ApplicationCategory",
     "name": {
         "type": "Property",
         "value": "videoStreaming"
+    },"code": {
+        "type": "Property",
+        "value": "VS" 
     },
     "@context": [
         "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"

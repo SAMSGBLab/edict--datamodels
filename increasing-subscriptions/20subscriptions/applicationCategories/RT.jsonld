@@ -1,9 +1,12 @@
 {
     "id": "urn:ngsi-ld:edict:ApplicationCategory:1cf1484f-d773-4461-95b7-7abc2287c2ea",
-    "type": "ApplicationCategory",
+        "type": "ApplicationCategory",
     "name": {
         "type": "Property",
         "value": "realtime"
+    },"code": {
+        "type": "Property",
+        "value": "RT" 
     },
     "@context": [
         "https://raw.githubusercontent.com/SAMSGBLab/edict--datamodels/main/context.jsonld"

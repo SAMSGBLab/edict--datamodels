@@ -20,6 +20,7 @@
         "belongsToCategory": "edict--datamodels:belongsToCategory",
         "capturesObservations": "edict--datamodels:capturesObservations",
         "category": "https://wiki.openstreetmap.org/wiki/Tag:building%3Dcategory",
+        "code": "edict--datamodels:code",
         "configuration": "fiware:configuration",
         "containedInPlace": "edict--datamodels:containedInPlace",
         "controlledAsset": "fiware:controlledAsset",

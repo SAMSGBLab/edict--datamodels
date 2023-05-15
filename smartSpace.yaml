@@ -164,6 +164,11 @@ components:
           type: string
           x-ngsi:
             type: Property
+        code:
+          description: "The code of the application category."
+          type: string
+          x-ngsi:
+            type: Property
         hasQoSRequirement:
           description: "The QOS requirements of the application category."
           type: string
